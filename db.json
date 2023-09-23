@@ -3,9 +3,8 @@
     {
       "id": 1,
       "title": "Spinach Scrambled Eggs",
-      "image":"https://images.eatthismuch.com/img/906880_cierralvandehey_ea3c822f-1a44-4634-b570-ddd365675725.jpg",
+      "image": "https://images.eatthismuch.com/img/906880_cierralvandehey_ea3c822f-1a44-4634-b570-ddd365675725.jpg",
       "category": "paleo weight loss",
-
       "servings": 2,
       "ingredients": [
         "4 large eggs",
@@ -40,9 +39,8 @@
     {
       "id": 2,
       "title": "Spinach, Pineapple, and Mango Berry Smoothie",
-      "image":"https://images.eatthismuch.com/img/345323_msilvasa_cdae3632-ade4-4416-a1cd-69234e8d1942.png",
+      "image": "https://images.eatthismuch.com/img/345323_msilvasa_cdae3632-ade4-4416-a1cd-69234e8d1942.png",
       "category": "paleo weight loss",
-
       "servings": 2,
       "ingredients": [
         "2 cups fresh spinach leaves",
@@ -71,12 +69,11 @@
         "fat": 2
       }
     },
-
     {
       "id": 3,
       "title": "Curry Tuna Salad",
       "category": "paleo weight loss",
-
+      "image": "https://images.eatthismuch.com/img/906829_Tahirah_Fo_Ferah_50599381-d623-474f-b8e8-8306ce7e2720.jpg",
       "servings": 2,
       "ingredients": [
         "1 can (5 oz) of tuna in water, drained",
@@ -108,7 +105,7 @@
       "id": 4,
       "title": "Avocado Lettuce Wrap",
       "category": "paleo weight loss",
-
+      "image": "https://images.eatthismuch.com/img/34552_erin_m_b2db84dd-22f2-4298-a4fc-659270785756.png",
       "servings": 2,
       "ingredients": [
         "2 large lettuce leaves (e.g., iceberg or butter lettuce)",
@@ -143,7 +140,7 @@
       "id": 5,
       "title": "Skinny Blackened Tilapia",
       "category": "paleo weight loss",
-
+      "image": "",
       "servings": 2,
       "ingredients": [
         "2 tilapia fillets",
@@ -179,7 +176,7 @@
       "id": 6,
       "title": "Mixed Greens with Sliced Cucumber and Avocado",
       "category": "paleo weight loss",
-
+      "image": "",
       "servings": 2,
       "ingredients": [
         "4 cups mixed greens (e.g., spinach, arugula, romaine)",
@@ -209,7 +206,7 @@
       "id": 7,
       "title": "Over Easy Eggs",
       "category": "paleo weight loss",
-
+      "image": "",
       "servings": 2,
       "ingredients": [
         "4 large eggs",
@@ -239,6 +236,7 @@
       "id": 8,
       "title": "Turkish-Style Zucchini Fritters",
       "category": "paleo weight loss",
+      "image": "",
 
       "servings": 4,
       "ingredients": [
@@ -277,6 +275,7 @@
       "id": 9,
       "title": "Korean-Style Steamed Eggs",
       "category": "paleo weight loss",
+      "image": "",
 
       "servings": 2,
       "ingredients": [
@@ -316,6 +315,7 @@
       "title": "Guacamole on Tostada",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "2 tostada shells",
@@ -349,6 +349,7 @@
       "title": "Skinny Pancakes",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "1/2 cup old-fashioned oats",
@@ -384,6 +385,7 @@
       "title": "Banana Egg Pancakes",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "2 ripe bananas",
@@ -418,6 +420,7 @@
       "title": "Microwave Poached Eggs",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "4 large eggs",
@@ -450,6 +453,7 @@
       "title": "Paleo Porridge",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "1 cup unsweetened almond milk",
@@ -482,6 +486,7 @@
       "title": "Ham, Egg, and Spinach Roll-Ups",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "4 slices ham",
@@ -516,6 +521,7 @@
       "title": "Lemon Berry Smoothie",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "1 cup frozen mixed berries (e.g., strawberries, blueberries, raspberries)",
@@ -548,6 +554,7 @@
       "id": 17,
       "title": "Pico de Gallo Egg White Cups",
       "category": "paleo weight loss",
+      "image": "",
 
       "servings": 2,
       "ingredients": [
@@ -584,6 +591,7 @@
       "id": 18,
       "title": "Kale, Peppers, Tomatoes, and Cashew Scramble",
       "category": "paleo weight loss",
+      "image": "",
 
       "servings": 2,
       "ingredients": [
@@ -618,6 +626,7 @@
       "id": 19,
       "title": "Egg and Asparagus Scramble",
       "category": "paleo weight loss",
+      "image": "",
 
       "servings": 2,
       "ingredients": [
@@ -654,6 +663,7 @@
       "title": "Tarragon and Dijon Chicken Salad",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "2 boneless, skinless chicken breasts",
@@ -694,6 +704,7 @@
       "title": "Cauliflower and Tahini",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "1 small cauliflower, cut into florets",
@@ -730,6 +741,7 @@
       "title": "Quick Buffalo Chicken Salad",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "2 boneless, skinless chicken breasts",
@@ -769,6 +781,7 @@
       "title": "Tuna with Avocado",
       "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
       "ingredients": [
         "2 cans (5 oz each) of tuna in water, drained",
@@ -799,768 +812,783 @@
       }
     },
     {
-        "id": 24,
-  "title": "Turkish-Style Salad",
-  "servings": 2,
+      "id": 24,
+      "title": "Turkish-Style Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "2 cucumbers, diced",
-    "2 tomatoes, diced",
-    "1 red onion, finely chopped",
-    "1/4 cup fresh parsley, chopped",
-    "1/4 cup fresh mint leaves, chopped",
-    "1/4 cup feta cheese, crumbled",
-    "2 tablespoons olive oil",
-    "2 tablespoons lemon juice",
-    "Salt and pepper to taste",
-    "Kalamata olives for garnish (optional)"
-  ],
-  "instructions": [
-    "In a large salad bowl, combine diced cucumbers, diced tomatoes, finely chopped red onion, chopped fresh parsley, and chopped fresh mint leaves.",
-    "Add crumbled feta cheese to the salad.",
-    "Drizzle olive oil and lemon juice over the salad.",
-    "Season with salt and pepper to taste.",
-    "Toss all the ingredients gently until well combined.",
-    "If desired, garnish your Turkish-Style Salad with Kalamata olives.",
-    "Serve and enjoy your refreshing and flavorful salad!"
-  ],
-  "nutrition": {
-    "calories": 220,
-    "protein": 6,
-    "carbohydrates": 18,
-    "fiber": 4,
-    "sugars": 9,
-    "fat": 15
-  }
+      "ingredients": [
+        "2 cucumbers, diced",
+        "2 tomatoes, diced",
+        "1 red onion, finely chopped",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh mint leaves, chopped",
+        "1/4 cup feta cheese, crumbled",
+        "2 tablespoons olive oil",
+        "2 tablespoons lemon juice",
+        "Salt and pepper to taste",
+        "Kalamata olives for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large salad bowl, combine diced cucumbers, diced tomatoes, finely chopped red onion, chopped fresh parsley, and chopped fresh mint leaves.",
+        "Add crumbled feta cheese to the salad.",
+        "Drizzle olive oil and lemon juice over the salad.",
+        "Season with salt and pepper to taste.",
+        "Toss all the ingredients gently until well combined.",
+        "If desired, garnish your Turkish-Style Salad with Kalamata olives.",
+        "Serve and enjoy your refreshing and flavorful salad!"
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 6,
+        "carbohydrates": 18,
+        "fiber": 4,
+        "sugars": 9,
+        "fat": 15
+      }
     },
     {
-        "id": 25,
-  "title": "Avocado, Strawberry, and Spinach Salad",
-  "servings": 2,
+      "id": 25,
+      "title": "Avocado, Strawberry, and Spinach Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "4 cups fresh spinach leaves",
-    "1 cup strawberries, sliced",
-    "1 avocado, diced",
-    "1/4 cup red onion, thinly sliced",
-    "2 tablespoons balsamic vinegar",
-    "2 tablespoons olive oil",
-    "1 tablespoon honey (optional, for sweetness)",
-    "Salt and pepper to taste",
-    "Chopped pecans or walnuts for garnish (optional)"
-  ],
-  "instructions": [
-    "In a large salad bowl, combine fresh spinach leaves, sliced strawberries, diced avocado, and thinly sliced red onion.",
-    "In a small bowl, whisk together balsamic vinegar, olive oil, honey (if using), salt, and pepper.",
-    "Drizzle the dressing over the salad.",
-    "Toss all the ingredients gently until well coated with the dressing.",
-    "If desired, garnish your Avocado, Strawberry, and Spinach Salad with chopped pecans or walnuts.",
-    "Serve and enjoy your delicious and refreshing salad!"
-  ],
-  "nutrition": {
-    "calories": 280,
-    "protein": 4,
-    "carbohydrates": 22,
-    "fiber": 7,
-    "sugars": 11,
-    "fat": 21
-  }
+      "ingredients": [
+        "4 cups fresh spinach leaves",
+        "1 cup strawberries, sliced",
+        "1 avocado, diced",
+        "1/4 cup red onion, thinly sliced",
+        "2 tablespoons balsamic vinegar",
+        "2 tablespoons olive oil",
+        "1 tablespoon honey (optional, for sweetness)",
+        "Salt and pepper to taste",
+        "Chopped pecans or walnuts for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large salad bowl, combine fresh spinach leaves, sliced strawberries, diced avocado, and thinly sliced red onion.",
+        "In a small bowl, whisk together balsamic vinegar, olive oil, honey (if using), salt, and pepper.",
+        "Drizzle the dressing over the salad.",
+        "Toss all the ingredients gently until well coated with the dressing.",
+        "If desired, garnish your Avocado, Strawberry, and Spinach Salad with chopped pecans or walnuts.",
+        "Serve and enjoy your delicious and refreshing salad!"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 4,
+        "carbohydrates": 22,
+        "fiber": 7,
+        "sugars": 11,
+        "fat": 21
+      }
     },
     {
-        "id": 26,
-  "title": "Tuna and Avocado Wrap",
-  "servings": 2,
+      "id": 26,
+      "title": "Tuna and Avocado Wrap",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "1 can (5 oz) of tuna in water, drained",
-    "1 ripe avocado, mashed",
-    "2 whole-wheat tortillas (8-inch diameter)",
-    "1/4 cup red onion, finely chopped",
-    "1/4 cup cucumber, diced",
-    "1/4 cup red bell pepper, diced",
-    "2 tablespoons Greek yogurt (unsweetened)",
-    "1 tablespoon lemon juice",
-    "Salt and pepper to taste",
-    "Lettuce leaves for wrapping (optional)"
-  ],
-  "instructions": [
-    "In a mixing bowl, combine drained tuna, mashed avocado, finely chopped red onion, diced cucumber, diced red bell pepper, Greek yogurt, lemon juice, salt, and pepper. Mix well.",
-    "Lay out the whole-wheat tortillas on a flat surface.",
-    "Divide the tuna and avocado mixture evenly between the tortillas, spreading it over the center of each tortilla.",
-    "If desired, place lettuce leaves on top of the mixture for added freshness.",
-    "Fold in the sides of each tortilla and then roll up tightly, creating wraps.",
-    "Serve your Tuna and Avocado Wraps immediately or wrap them in foil for a convenient and portable lunch.",
-    "Enjoy your tasty and nutritious wraps!"
-  ],
-  "nutrition": {
-    "calories": 350,
-    "protein": 20,
-    "carbohydrates": 27,
-    "fiber": 7,
-    "sugars": 5,
-    "fat": 20
-  }
+      "ingredients": [
+        "1 can (5 oz) of tuna in water, drained",
+        "1 ripe avocado, mashed",
+        "2 whole-wheat tortillas (8-inch diameter)",
+        "1/4 cup red onion, finely chopped",
+        "1/4 cup cucumber, diced",
+        "1/4 cup red bell pepper, diced",
+        "2 tablespoons Greek yogurt (unsweetened)",
+        "1 tablespoon lemon juice",
+        "Salt and pepper to taste",
+        "Lettuce leaves for wrapping (optional)"
+      ],
+      "instructions": [
+        "In a mixing bowl, combine drained tuna, mashed avocado, finely chopped red onion, diced cucumber, diced red bell pepper, Greek yogurt, lemon juice, salt, and pepper. Mix well.",
+        "Lay out the whole-wheat tortillas on a flat surface.",
+        "Divide the tuna and avocado mixture evenly between the tortillas, spreading it over the center of each tortilla.",
+        "If desired, place lettuce leaves on top of the mixture for added freshness.",
+        "Fold in the sides of each tortilla and then roll up tightly, creating wraps.",
+        "Serve your Tuna and Avocado Wraps immediately or wrap them in foil for a convenient and portable lunch.",
+        "Enjoy your tasty and nutritious wraps!"
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 20,
+        "carbohydrates": 27,
+        "fiber": 7,
+        "sugars": 5,
+        "fat": 20
+      }
     },
     {
-        "id": 28,
-  "title": "Fruited Curry Chicken Salad",
-  "servings": 2,
+      "id": 28,
+      "title": "Fruited Curry Chicken Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "2 boneless, skinless chicken breasts",
-    "1/2 cup Greek yogurt (unsweetened)",
-    "1/2 cup red grapes, halved",
-    "1/4 cup dried cranberries",
-    "1/4 cup chopped celery",
-    "1/4 cup chopped green onions",
-    "1/4 cup chopped pecans",
-    "1 1/2 teaspoons curry powder",
-    "Salt and pepper to taste",
-    "Lettuce leaves for serving (optional)"
-  ],
-  "instructions": [
-    "In a pot of boiling water, cook the chicken breasts until they are no longer pink in the center, about 15-20 minutes. Drain and let cool.",
-    "Once cooled, dice the cooked chicken into small pieces.",
-    "In a mixing bowl, combine Greek yogurt, halved red grapes, dried cranberries, chopped celery, chopped green onions, chopped pecans, curry powder, salt, and pepper. Mix well.",
-    "Add the diced chicken to the yogurt mixture and stir until everything is thoroughly coated with the dressing.",
-    "If desired, serve your Fruited Curry Chicken Salad on lettuce leaves for a refreshing presentation.",
-    "Enjoy your delicious and fruity chicken salad!"
-  ],
-  "nutrition": {
-    "calories": 370,
-    "protein": 28,
-    "carbohydrates": 30,
-    "fiber": 4,
-    "sugars": 19,
-    "fat": 17
-  }
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "1/2 cup Greek yogurt (unsweetened)",
+        "1/2 cup red grapes, halved",
+        "1/4 cup dried cranberries",
+        "1/4 cup chopped celery",
+        "1/4 cup chopped green onions",
+        "1/4 cup chopped pecans",
+        "1 1/2 teaspoons curry powder",
+        "Salt and pepper to taste",
+        "Lettuce leaves for serving (optional)"
+      ],
+      "instructions": [
+        "In a pot of boiling water, cook the chicken breasts until they are no longer pink in the center, about 15-20 minutes. Drain and let cool.",
+        "Once cooled, dice the cooked chicken into small pieces.",
+        "In a mixing bowl, combine Greek yogurt, halved red grapes, dried cranberries, chopped celery, chopped green onions, chopped pecans, curry powder, salt, and pepper. Mix well.",
+        "Add the diced chicken to the yogurt mixture and stir until everything is thoroughly coated with the dressing.",
+        "If desired, serve your Fruited Curry Chicken Salad on lettuce leaves for a refreshing presentation.",
+        "Enjoy your delicious and fruity chicken salad!"
+      ],
+      "nutrition": {
+        "calories": 370,
+        "protein": 28,
+        "carbohydrates": 30,
+        "fiber": 4,
+        "sugars": 19,
+        "fat": 17
+      }
     },
     {
-        "id": 29,
-  "title": "Brussels Sprout Slaw",
-  "servings": 4,
+      "id": 29,
+      "title": "Brussels Sprout Slaw",
+      "servings": 4,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "1 lb Brussels sprouts, trimmed and thinly sliced",
-    "1/4 cup red onion, thinly sliced",
-    "1/4 cup dried cranberries",
-    "1/4 cup chopped pecans",
-    "1/4 cup Greek yogurt (unsweetened)",
-    "2 tablespoons mayonnaise",
-    "1 tablespoon Dijon mustard",
-    "1 tablespoon apple cider vinegar",
-    "1 tablespoon honey (optional, for sweetness)",
-    "Salt and pepper to taste"
-  ],
-  "instructions": [
-    "In a large mixing bowl, combine thinly sliced Brussels sprouts, thinly sliced red onion, dried cranberries, and chopped pecans.",
-    "In a separate small bowl, whisk together Greek yogurt, mayonnaise, Dijon mustard, apple cider vinegar, honey (if using), salt, and pepper to make the dressing.",
-    "Pour the dressing over the Brussels sprout mixture.",
-    "Toss all the ingredients until the slaw is well coated with the dressing.",
-    "Refrigerate for at least 30 minutes to allow the flavors to meld together.",
-    "Serve your Brussels Sprout Slaw as a refreshing and crunchy side dish or salad.",
-    "Enjoy!"
-  ],
-  "nutrition": {
-    "calories": 180,
-    "protein": 4,
-    "carbohydrates": 20,
-    "fiber": 4,
-    "sugars": 11,
-    "fat": 10
-  }
+      "ingredients": [
+        "1 lb Brussels sprouts, trimmed and thinly sliced",
+        "1/4 cup red onion, thinly sliced",
+        "1/4 cup dried cranberries",
+        "1/4 cup chopped pecans",
+        "1/4 cup Greek yogurt (unsweetened)",
+        "2 tablespoons mayonnaise",
+        "1 tablespoon Dijon mustard",
+        "1 tablespoon apple cider vinegar",
+        "1 tablespoon honey (optional, for sweetness)",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large mixing bowl, combine thinly sliced Brussels sprouts, thinly sliced red onion, dried cranberries, and chopped pecans.",
+        "In a separate small bowl, whisk together Greek yogurt, mayonnaise, Dijon mustard, apple cider vinegar, honey (if using), salt, and pepper to make the dressing.",
+        "Pour the dressing over the Brussels sprout mixture.",
+        "Toss all the ingredients until the slaw is well coated with the dressing.",
+        "Refrigerate for at least 30 minutes to allow the flavors to meld together.",
+        "Serve your Brussels Sprout Slaw as a refreshing and crunchy side dish or salad.",
+        "Enjoy!"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbohydrates": 20,
+        "fiber": 4,
+        "sugars": 11,
+        "fat": 10
+      }
     },
     {
-        "id": 30,
-  "title": "Curry Tuna Salad",
-  "servings": 2,
+      "id": 30,
+      "title": "Curry Tuna Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "1 can (5 oz) of tuna in water, drained",
-    "1/4 cup Greek yogurt (unsweetened)",
-    "1/4 cup diced apple",
-    "2 tablespoons diced celery",
-    "2 tablespoons raisins",
-    "1 tablespoon chopped green onions",
-    "1/2 teaspoon curry powder",
-    "Salt and pepper to taste",
-    "Lettuce leaves or whole-grain bread for serving (optional)"
-  ],
-  "instructions": [
-    "In a mixing bowl, combine drained tuna, Greek yogurt, diced apple, diced celery, raisins, chopped green onions, curry powder, salt, and pepper. Mix well.",
-    "If desired, serve your Curry Tuna Salad on lettuce leaves or as a sandwich with whole-grain bread.",
-    "Enjoy your flavorful and creamy tuna salad!"
-  ],
-  "nutrition": {
-    "calories": 210,
-    "protein": 16,
-    "carbohydrates": 24,
-    "fiber": 3,
-    "sugars": 13,
-    "fat": 6
-  }
+      "ingredients": [
+        "1 can (5 oz) of tuna in water, drained",
+        "1/4 cup Greek yogurt (unsweetened)",
+        "1/4 cup diced apple",
+        "2 tablespoons diced celery",
+        "2 tablespoons raisins",
+        "1 tablespoon chopped green onions",
+        "1/2 teaspoon curry powder",
+        "Salt and pepper to taste",
+        "Lettuce leaves or whole-grain bread for serving (optional)"
+      ],
+      "instructions": [
+        "In a mixing bowl, combine drained tuna, Greek yogurt, diced apple, diced celery, raisins, chopped green onions, curry powder, salt, and pepper. Mix well.",
+        "If desired, serve your Curry Tuna Salad on lettuce leaves or as a sandwich with whole-grain bread.",
+        "Enjoy your flavorful and creamy tuna salad!"
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 16,
+        "carbohydrates": 24,
+        "fiber": 3,
+        "sugars": 13,
+        "fat": 6
+      }
     },
     {
-        "id": 31,
-  "title": "Raw Cauliflower Tabouli",
-  "servings": 4,
+      "id": 31,
+      "title": "Raw Cauliflower Tabouli",
+      "servings": 4,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "1 small head cauliflower, chopped into florets",
-    "1 cup fresh parsley leaves, chopped",
-    "1/2 cup fresh mint leaves, chopped",
-    "2 tomatoes, diced",
-    "1/2 cucumber, diced",
-    "1/4 cup red onion, finely chopped",
-    "3 tablespoons olive oil",
-    "2 tablespoons lemon juice",
-    "2 cloves garlic, minced",
-    "Salt and pepper to taste"
-  ],
-  "instructions": [
-    "Place the cauliflower florets in a food processor and pulse until they resemble the texture of rice or couscous. Transfer to a large mixing bowl.",
-    "Add chopped fresh parsley, chopped fresh mint leaves, diced tomatoes, diced cucumber, and finely chopped red onion to the cauliflower rice.",
-    "In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper to make the dressing.",
-    "Pour the dressing over the cauliflower tabouli mixture.",
-    "Toss all the ingredients until they are well coated with the dressing.",
-    "Refrigerate for at least 30 minutes to allow the flavors to meld together.",
-    "Serve your Raw Cauliflower Tabouli as a refreshing and healthy salad.",
-    "Enjoy!"
-  ],
-  "nutrition": {
-    "calories": 130,
-    "protein": 3,
-    "carbohydrates": 11,
-    "fiber": 4,
-    "sugars": 4,
-    "fat": 9
-  }
+      "ingredients": [
+        "1 small head cauliflower, chopped into florets",
+        "1 cup fresh parsley leaves, chopped",
+        "1/2 cup fresh mint leaves, chopped",
+        "2 tomatoes, diced",
+        "1/2 cucumber, diced",
+        "1/4 cup red onion, finely chopped",
+        "3 tablespoons olive oil",
+        "2 tablespoons lemon juice",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Place the cauliflower florets in a food processor and pulse until they resemble the texture of rice or couscous. Transfer to a large mixing bowl.",
+        "Add chopped fresh parsley, chopped fresh mint leaves, diced tomatoes, diced cucumber, and finely chopped red onion to the cauliflower rice.",
+        "In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper to make the dressing.",
+        "Pour the dressing over the cauliflower tabouli mixture.",
+        "Toss all the ingredients until they are well coated with the dressing.",
+        "Refrigerate for at least 30 minutes to allow the flavors to meld together.",
+        "Serve your Raw Cauliflower Tabouli as a refreshing and healthy salad.",
+        "Enjoy!"
+      ],
+      "nutrition": {
+        "calories": 130,
+        "protein": 3,
+        "carbohydrates": 11,
+        "fiber": 4,
+        "sugars": 4,
+        "fat": 9
+      }
     },
     {
-        "id": 32,
-  "title": "Maple Pear, Spinach, and Ham Salad",
-  "servings": 2,
+      "id": 32,
+      "title": "Maple Pear, Spinach, and Ham Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "4 cups fresh spinach leaves",
-    "1 ripe pear, sliced",
-    "4 slices lean ham, diced",
-    "1/4 cup red onion, thinly sliced",
-    "1/4 cup chopped pecans",
-    "2 tablespoons crumbled feta cheese",
-    "2 tablespoons olive oil",
-    "1 tablespoon maple syrup",
-    "1 tablespoon balsamic vinegar",
-    "Salt and pepper to taste"
-  ],
-  "instructions": [
-    "In a large salad bowl, combine fresh spinach leaves, sliced ripe pear, diced lean ham, thinly sliced red onion, chopped pecans, and crumbled feta cheese.",
-    "In a small bowl, whisk together olive oil, maple syrup, balsamic vinegar, salt, and pepper to make the dressing.",
-    "Drizzle the dressing over the salad.",
-    "Toss all the ingredients gently until well coated with the dressing.",
-    "Serve your Maple Pear, Spinach, and Ham Salad for a delicious and satisfying lunch!",
-    "Enjoy!"
-  ],
-  "nutrition": {
-    "calories": 350,
-    "protein": 14,
-    "carbohydrates": 28,
-    "fiber": 5,
-    "sugars": 16,
-    "fat": 23
-  }
+      "ingredients": [
+        "4 cups fresh spinach leaves",
+        "1 ripe pear, sliced",
+        "4 slices lean ham, diced",
+        "1/4 cup red onion, thinly sliced",
+        "1/4 cup chopped pecans",
+        "2 tablespoons crumbled feta cheese",
+        "2 tablespoons olive oil",
+        "1 tablespoon maple syrup",
+        "1 tablespoon balsamic vinegar",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large salad bowl, combine fresh spinach leaves, sliced ripe pear, diced lean ham, thinly sliced red onion, chopped pecans, and crumbled feta cheese.",
+        "In a small bowl, whisk together olive oil, maple syrup, balsamic vinegar, salt, and pepper to make the dressing.",
+        "Drizzle the dressing over the salad.",
+        "Toss all the ingredients gently until well coated with the dressing.",
+        "Serve your Maple Pear, Spinach, and Ham Salad for a delicious and satisfying lunch!",
+        "Enjoy!"
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 14,
+        "carbohydrates": 28,
+        "fiber": 5,
+        "sugars": 16,
+        "fat": 23
+      }
     },
     {
-        "id": 33,
-  "title": "Paleo Avocado Chicken Salad",
-  "servings": 2,
+      "id": 33,
+      "title": "Paleo Avocado Chicken Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "2 boneless, skinless chicken breasts, cooked and shredded",
-    "1 avocado, diced",
-    "1/4 cup red onion, finely chopped",
-    "1/4 cup fresh cilantro, chopped",
-    "1/4 cup fresh lime juice",
-    "2 tablespoons olive oil",
-    "1/2 teaspoon garlic powder",
-    "Salt and pepper to taste",
-    "Lettuce leaves for serving (optional)"
-  ],
-  "instructions": [
-    "In a large mixing bowl, combine the cooked and shredded chicken breasts, diced avocado, finely chopped red onion, and chopped fresh cilantro.",
-    "In a separate small bowl, whisk together fresh lime juice, olive oil, garlic powder, salt, and pepper to make the dressing.",
-    "Pour the dressing over the chicken salad mixture.",
-    "Toss all the ingredients until they are well coated with the dressing.",
-    "If desired, serve your Paleo Avocado Chicken Salad on lettuce leaves for a refreshing presentation.",
-    "Enjoy your delicious and Paleo-friendly chicken salad!"
-  ],
-  "nutrition": {
-    "calories": 380,
-    "protein": 27,
-    "carbohydrates": 9,
-    "fiber": 5,
-    "sugars": 2,
-    "fat": 27
-  }
+      "ingredients": [
+        "2 boneless, skinless chicken breasts, cooked and shredded",
+        "1 avocado, diced",
+        "1/4 cup red onion, finely chopped",
+        "1/4 cup fresh cilantro, chopped",
+        "1/4 cup fresh lime juice",
+        "2 tablespoons olive oil",
+        "1/2 teaspoon garlic powder",
+        "Salt and pepper to taste",
+        "Lettuce leaves for serving (optional)"
+      ],
+      "instructions": [
+        "In a large mixing bowl, combine the cooked and shredded chicken breasts, diced avocado, finely chopped red onion, and chopped fresh cilantro.",
+        "In a separate small bowl, whisk together fresh lime juice, olive oil, garlic powder, salt, and pepper to make the dressing.",
+        "Pour the dressing over the chicken salad mixture.",
+        "Toss all the ingredients until they are well coated with the dressing.",
+        "If desired, serve your Paleo Avocado Chicken Salad on lettuce leaves for a refreshing presentation.",
+        "Enjoy your delicious and Paleo-friendly chicken salad!"
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 27,
+        "carbohydrates": 9,
+        "fiber": 5,
+        "sugars": 2,
+        "fat": 27
+      }
     },
     {
-        "id": 35,
-        "title": "Tilapia with Kale and Tomato",
-        "servings": 2,
-        "category": "paleo weight loss",
-
-        "ingredients": [
-          "2 tilapia fillets",
-          "4 cups fresh kale leaves, stems removed and chopped",
-          "2 tomatoes, diced",
-          "2 cloves garlic, minced",
-          "2 tablespoons olive oil",
-          "1/2 teaspoon red pepper flakes (optional, for heat)",
-          "Salt and pepper to taste",
-          "Lemon wedges for garnish (optional)"
-        ],
-        "instructions": [
-          "Season the tilapia fillets with salt, pepper, and red pepper flakes (if using).",
-          "In a large skillet, heat olive oil over medium-high heat.",
-          "Add the seasoned tilapia fillets to the skillet and cook for about 3-4 minutes per side, or until they are opaque and flake easily with a fork. Remove from the skillet and set aside.",
-          "In the same skillet, add minced garlic and diced tomatoes. Cook for about 2-3 minutes, or until the tomatoes soften.",
-          "Add the chopped kale to the skillet and cook, stirring frequently, until the kale wilts and becomes tender.",
-          "Season the kale and tomato mixture with salt and pepper to taste.",
-          "Place the cooked tilapia fillets on top of the kale and tomato mixture in the skillet.",
-          "If desired, garnish with lemon wedges before serving.",
-          "Enjoy your flavorful Tilapia with Kale and Tomato dinner!"
-        ],
-        "nutrition": {
-          "calories": 320,
-          "protein": 36,
-          "carbohydrates": 18,
-          "fiber": 4,
-          "sugars": 6,
-          "fat": 14
-        }
-    },
-    {
-        "id": 36,
-  "title": "Salmon Beet Salad",
-  "servings": 2,
-        "category": "paleo weight loss",
-
-        "ingredients": [
-    "2 salmon fillets",
-    "4 cups mixed greens (e.g., spinach, arugula)",
-    "2 medium beets, roasted and sliced",
-    "1/4 cup walnuts, chopped",
-    "1/4 cup crumbled goat cheese",
-    "2 tablespoons olive oil",
-    "2 tablespoons balsamic vinegar",
-    "Salt and pepper to taste",
-    "Lemon wedges for garnish (optional)"
-  ],
-  "instructions": [
-    "Season the salmon fillets with salt and pepper.",
-    "In a skillet, heat olive oil over medium-high heat.",
-    "Add the seasoned salmon fillets to the skillet and cook for about 4-5 minutes per side, or until they are cooked to your desired level of doneness. Remove from the skillet and set aside.",
-    "In a large salad bowl, combine mixed greens, roasted and sliced beets, chopped walnuts, and crumbled goat cheese.",
-    "In a small bowl, whisk together balsamic vinegar and a pinch of salt and pepper to make the dressing.",
-    "Drizzle the dressing over the salad and toss gently to coat all the ingredients.",
-    "Place the cooked salmon fillets on top of the salad.",
-    "If desired, garnish with lemon wedges before serving.",
-    "Enjoy your delicious Salmon Beet Salad for dinner!"
-  ],
-  "nutrition": {
-    "calories": 460,
-    "protein": 34,
-    "carbohydrates": 18,
-    "fiber": 5,
-    "sugars": 9,
-    "fat": 30
-  }
-    },
-    {
-        "id": 37,
-        "title": "Sautéed Garlic Spinach",
-        "servings": 2,
-        "category": "paleo weight loss",
-
-        "ingredients": [
-          "8 cups fresh spinach leaves, washed and trimmed",
-          "2 cloves garlic, minced",
-          "2 tablespoons olive oil",
-          "Salt and pepper to taste",
-          "Lemon wedges for garnish (optional)"
-        ],
-        "instructions": [
-          "In a large skillet, heat olive oil over medium-high heat.",
-          "Add minced garlic to the skillet and sauté for about 30 seconds, or until fragrant.",
-          "Add the fresh spinach leaves to the skillet. Use tongs to toss and turn the spinach leaves as they cook. Cook for 2-3 minutes, or until the spinach is wilted and tender.",
-          "Season the sautéed spinach with salt and pepper to taste.",
-          "If desired, garnish with lemon wedges before serving.",
-          "Enjoy your flavorful Sautéed Garlic Spinach as a side dish!"
-        ],
-        "nutrition": {
-          "calories": 120,
-          "protein": 5,
-          "carbohydrates": 5,
-          "fiber": 3,
-          "sugars": 0,
-          "fat": 10
-        }
-    },
-    {
-        "id": 38,
-  "title": "Peppered Steaks",
-  "servings": 2,
-        "category": "paleo weight loss",
-
-
-  "ingredients": [
-    "2 beef steaks (e.g., ribeye, sirloin)",
-    "2 tablespoons black peppercorns, crushed",
-    "1 tablespoon olive oil",
-    "1 tablespoon butter",
-    "2 cloves garlic, minced",
-    "Salt to taste",
-    "Fresh parsley for garnish (optional)"
-  ],
-  "instructions": [
-    "Season the beef steaks with salt and crushed black peppercorns, pressing the pepper into the steaks to adhere.",
-    "In a skillet, heat olive oil over medium-high heat.",
-    "Add the seasoned beef steaks to the skillet and cook to your desired level of doneness (e.g., about 3-4 minutes per side for medium-rare, adjust cooking time for your preference).",
-    "In the last minute of cooking, add minced garlic and butter to the skillet. Baste the steaks with the melted butter and garlic mixture.",
-    "Remove the steaks from the skillet and let them rest for a few minutes.",
-    "If desired, garnish with fresh parsley before serving.",
-    "Enjoy your Peppered Steaks for a delicious dinner!"
-  ],
-  "nutrition": {
-    "calories": 400,
-    "protein": 40,
-    "carbohydrates": 1,
-    "fiber": 0,
-    "sugars": 0,
-    "fat": 27
-  }
-    },
-    {
-        "id": 39,
-  "title": "Zucchini Spears",
-  "servings": 2,
-        "category": "paleo weight loss",
-
-
- "ingredients": [
-    "2 zucchini, cut into spears",
-    "2 tablespoons olive oil",
-    "2 cloves garlic, minced",
-    "1 teaspoon dried oregano",
-    "Salt and pepper to taste",
-    "Grated Parmesan cheese for garnish (optional)"
-  ],
-  "instructions": [
-    "Preheat your oven to 425°F (220°C).",
-    "In a mixing bowl, toss the zucchini spears with olive oil, minced garlic, dried oregano, salt, and pepper until well coated.",
-    "Spread the seasoned zucchini spears in a single layer on a baking sheet lined with parchment paper.",
-    "Roast in the preheated oven for about 20-25 minutes, or until the zucchini is tender and slightly golden brown, flipping them halfway through.",
-    "If desired, garnish with grated Parmesan cheese before serving.",
-    "Enjoy your delicious Zucchini Spears as a side dish!"
-  ],
-  "nutrition": {
-    "calories": 150,
-    "protein": 2,
-    "carbohydrates": 7,
-    "fiber": 2,
-    "sugars": 3,
-    "fat": 13
-  }
-    },
-    {
-        "id": 40,
-        "title": "Balsamic Chicken and Mushrooms",
-        "servings": 2,
-        "category": "paleo weight loss",
-
-        "ingredients": [
-          "2 boneless, skinless chicken breasts",
-          "8 oz mushrooms, sliced",
-          "2 cloves garlic, minced",
-          "2 tablespoons balsamic vinegar",
-          "2 tablespoons olive oil",
-          "1 teaspoon dried thyme",
-          "Salt and pepper to taste",
-          "Fresh parsley for garnish (optional)"
-        ],
-        "instructions": [
-          "Season the chicken breasts with salt, pepper, and dried thyme.",
-          "In a skillet, heat olive oil over medium-high heat.",
-          "Add the seasoned chicken breasts to the skillet and cook for about 5-6 minutes per side, or until they are cooked through and no longer pink in the center. Remove from the skillet and set aside.",
-          "In the same skillet, add sliced mushrooms and minced garlic. Sauté for about 5 minutes, or until the mushrooms are tender and browned.",
-          "Pour balsamic vinegar into the skillet and stir to combine, allowing it to simmer for a minute or two until slightly reduced.",
-          "Return the cooked chicken breasts to the skillet, coating them with the mushroom and balsamic mixture.",
-          "If desired, garnish with fresh parsley before serving.",
-          "Enjoy your flavorful Balsamic Chicken and Mushrooms for dinner!"
-        ],
-        "nutrition": {
-          "calories": 340,
-          "protein": 32,
-          "carbohydrates": 7,
-          "fiber": 1,
-          "sugars": 3,
-          "fat": 21
-        }
-    },
-    {
-        "id": 41,
-  "title": "Zesty Tomato Soup",
-  "servings": 4,
-        "category": "paleo weight loss",
-
-
-  "ingredients": [
-    "2 cans (28 oz each) crushed tomatoes",
-    "1 onion, diced",
-    "3 cloves garlic, minced",
-    "1 carrot, diced",
-    "1 celery stalk, diced",
-    "4 cups vegetable broth",
-    "1 teaspoon dried basil",
-    "1 teaspoon dried oregano",
-    "1/2 teaspoon red pepper flakes (adjust to taste)",
-    "Salt and pepper to taste",
-    "2 tablespoons olive oil",
-    "Fresh basil leaves for garnish (optional)"
-  ],
-  "instructions": [
-    "In a large pot, heat olive oil over medium heat.",
-    "Add diced onion, minced garlic, diced carrot, and diced celery to the pot. Sauté for about 5 minutes, or until the vegetables are tender.",
-    "Stir in crushed tomatoes, vegetable broth, dried basil, dried oregano, red pepper flakes, salt, and pepper.",
-    "Bring the mixture to a boil, then reduce heat and simmer for about 15-20 minutes, allowing the flavors to meld together.",
-    "Use an immersion blender or transfer the soup to a blender (in batches) to puree until smooth and creamy.",
-    "Return the soup to the pot and heat through.",
-    "If desired, garnish with fresh basil leaves before serving.",
-    "Enjoy your Zesty Tomato Soup for a comforting dinner!"
-  ],
-  "nutrition": {
-    "calories": 180,
-    "protein": 4,
-    "carbohydrates": 30,
-    "fiber": 7,
-    "sugars": 16,
-    "fat": 7
-  }
-    },
-    {
-        "id": 42,
-  "title": "Basic Chicken Salad",
-  "servings": 2,
+      "id": 35,
+      "title": "Tilapia with Kale and Tomato",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "2 cups cooked chicken breast, diced",
-    "1/2 cup celery, diced",
-    "1/2 cup red grapes, halved",
-    "1/4 cup mayonnaise",
-    "1 tablespoon Dijon mustard",
-    "1 tablespoon fresh lemon juice",
-    "Salt and pepper to taste",
-    "Lettuce leaves or whole-grain bread for serving (optional)"
-  ],
-  "instructions": [
-    "In a mixing bowl, combine diced cooked chicken breast, diced celery, and halved red grapes.",
-    "In a separate small bowl, whisk together mayonnaise, Dijon mustard, fresh lemon juice, salt, and pepper to make the dressing.",
-    "Pour the dressing over the chicken salad mixture and toss until well coated.",
-    "Refrigerate the chicken salad for at least 30 minutes to allow the flavors to meld together.",
-    "Serve your Basic Chicken Salad on lettuce leaves or as a sandwich with whole-grain bread, if desired.",
-    "Enjoy your delicious and simple chicken salad for lunch!"
-  ],
-  "nutrition": {
-    "calories": 350,
-    "protein": 25,
-    "carbohydrates": 14,
-    "fiber": 2,
-    "sugars": 10,
-    "fat": 22
-  }
+      "ingredients": [
+        "2 tilapia fillets",
+        "4 cups fresh kale leaves, stems removed and chopped",
+        "2 tomatoes, diced",
+        "2 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1/2 teaspoon red pepper flakes (optional, for heat)",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "Season the tilapia fillets with salt, pepper, and red pepper flakes (if using).",
+        "In a large skillet, heat olive oil over medium-high heat.",
+        "Add the seasoned tilapia fillets to the skillet and cook for about 3-4 minutes per side, or until they are opaque and flake easily with a fork. Remove from the skillet and set aside.",
+        "In the same skillet, add minced garlic and diced tomatoes. Cook for about 2-3 minutes, or until the tomatoes soften.",
+        "Add the chopped kale to the skillet and cook, stirring frequently, until the kale wilts and becomes tender.",
+        "Season the kale and tomato mixture with salt and pepper to taste.",
+        "Place the cooked tilapia fillets on top of the kale and tomato mixture in the skillet.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your flavorful Tilapia with Kale and Tomato dinner!"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 36,
+        "carbohydrates": 18,
+        "fiber": 4,
+        "sugars": 6,
+        "fat": 14
+      }
     },
     {
-        "id": 43,
-  "title": "Maple Glazed Salmon",
-  "servings": 2,
-        "category": "paleo weight loss",
-
-  "ingredients": [
-    "2 salmon fillets",
-    "2 tablespoons maple syrup",
-    "1 tablespoon soy sauce",
-    "1 tablespoon Dijon mustard",
-    "1 clove garlic, minced",
-    "1/2 teaspoon ground ginger",
-    "Salt and pepper to taste",
-    "Lemon wedges for garnish (optional)"
-  ],
-  "instructions": [
-    "In a small bowl, whisk together maple syrup, soy sauce, Dijon mustard, minced garlic, ground ginger, salt, and pepper to make the glaze.",
-    "Season the salmon fillets with a pinch of salt and pepper.",
-    "Brush the salmon fillets with the maple glaze, coating them evenly.",
-    "Preheat your grill or grill pan to medium-high heat. Grease the grill grates with oil to prevent sticking.",
-    "Place the glazed salmon fillets on the grill and cook for about 4-5 minutes per side, or until the salmon flakes easily with a fork and has a caramelized glaze.",
-    "If desired, garnish with lemon wedges before serving.",
-    "Enjoy your delicious Maple Glazed Salmon for dinner!"
-  ],
-  "nutrition": {
-    "calories": 330,
-    "protein": 30,
-    "carbohydrates": 14,
-    "fiber": 0,
-    "sugars": 12,
-    "fat": 17
-  }
-    },
-    {
-        "id": 44,
-  "title": "2-Minute Quick Broiled Tuna Steaks",
-  "servings": 2,
-        "category": "paleo weight loss",
-
-  "ingredients": [
-    "2 tuna steaks (6 oz each)",
-    "2 tablespoons olive oil",
-    "1 clove garlic, minced",
-    "1 teaspoon lemon juice",
-    "1/2 teaspoon dried oregano",
-    "Salt and pepper to taste",
-    "Lemon wedges for garnish (optional)"
-  ],
-  "instructions": [
-    "Preheat your broiler to high heat and position the oven rack about 4 inches from the broiler element.",
-    "In a small bowl, whisk together olive oil, minced garlic, lemon juice, dried oregano, salt, and pepper to make the marinade.",
-    "Place the tuna steaks on a broiler pan or a baking sheet lined with foil.",
-    "Brush the tuna steaks with the marinade, coating them evenly on both sides.",
-    "Broil the tuna steaks for about 1 minute on each side for rare, or adjust the cooking time for your desired level of doneness.",
-    "If desired, garnish with lemon wedges before serving.",
-    "Enjoy your quick and delicious Broiled Tuna Steaks for dinner!"
-  ],
-  "nutrition": {
-    "calories": 280,
-    "protein": 35,
-    "carbohydrates": 2,
-    "fiber": 0,
-    "sugars": 0,
-    "fat": 14
-  }
-    },
-    {
-        "id": 45,
-  "title": "Grilled Asparagus",
-  "servings": 2,
+      "id": 36,
+      "title": "Salmon Beet Salad",
+      "servings": 2,
       "category": "paleo weight loss",
+      "image": "",
 
-  "ingredients": [
-    "1 bunch asparagus spears",
-    "2 tablespoons olive oil",
-    "2 cloves garlic, minced",
-    "Salt and pepper to taste",
-    "Lemon wedges for garnish (optional)"
-  ],
-  "instructions": [
-    "Preheat your grill to medium-high heat.",
-    "Trim the tough ends of the asparagus spears.",
-    "In a small bowl, combine olive oil, minced garlic, salt, and pepper.",
-    "Brush the asparagus spears with the olive oil mixture, coating them evenly.",
-    "Place the asparagus spears on the grill and cook for about 4-5 minutes, turning occasionally, or until they are tender and slightly charred.",
-    "If desired, garnish with lemon wedges before serving.",
-    "Enjoy your delicious Grilled Asparagus as a side dish!"
-  ],
-  "nutrition": {
-    "calories": 80,
-    "protein": 2,
-    "carbohydrates": 5,
-    "fiber": 2,
-    "sugars": 2,
-    "fat": 6
-  }
+      "ingredients": [
+        "2 salmon fillets",
+        "4 cups mixed greens (e.g., spinach, arugula)",
+        "2 medium beets, roasted and sliced",
+        "1/4 cup walnuts, chopped",
+        "1/4 cup crumbled goat cheese",
+        "2 tablespoons olive oil",
+        "2 tablespoons balsamic vinegar",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "Season the salmon fillets with salt and pepper.",
+        "In a skillet, heat olive oil over medium-high heat.",
+        "Add the seasoned salmon fillets to the skillet and cook for about 4-5 minutes per side, or until they are cooked to your desired level of doneness. Remove from the skillet and set aside.",
+        "In a large salad bowl, combine mixed greens, roasted and sliced beets, chopped walnuts, and crumbled goat cheese.",
+        "In a small bowl, whisk together balsamic vinegar and a pinch of salt and pepper to make the dressing.",
+        "Drizzle the dressing over the salad and toss gently to coat all the ingredients.",
+        "Place the cooked salmon fillets on top of the salad.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your delicious Salmon Beet Salad for dinner!"
+      ],
+      "nutrition": {
+        "calories": 460,
+        "protein": 34,
+        "carbohydrates": 18,
+        "fiber": 5,
+        "sugars": 9,
+        "fat": 30
+      }
     },
     {
-        "id": 27,
-  "title": "Seared Sesame-Crusted Tuna",
-  "servings": 2,
-  "category": "paleo weight loss",
-  "ingredients": [
-    "2 tuna steaks (6 oz each)",
-    "1/4 cup sesame seeds",
-    "1 tablespoon soy sauce",
-    "1 tablespoon sesame oil",
-    "1 teaspoon grated fresh ginger",
-    "1 clove garlic, minced",
-    "Salt and pepper to taste",
-    "Lemon wedges for garnish (optional)"
-  ],
-  "instructions": [
-    "In a shallow dish, spread out the sesame seeds.",
-    "Season the tuna steaks with salt and pepper.",
-    "In a separate bowl, whisk together soy sauce, sesame oil, grated fresh ginger, and minced garlic to make the marinade.",
-    "Dip each tuna steak into the sesame seeds, pressing the seeds onto both sides to coat the tuna evenly.",
-    "Heat a skillet over high heat. Add a small amount of oil to prevent sticking if needed.",
-    "Sear the sesame-crusted tuna steaks for about 1-2 minutes per side, or until they are seared on the outside and rare in the center. Adjust the cooking time for your desired level of doneness.",
-    "If desired, garnish with lemon wedges before serving.",
-    "Enjoy your Seared Sesame-Crusted Tuna for a delicious dinner!"
-  ],
-  "nutrition": {
-    "calories": 320,
-    "protein": 40,
-    "carbohydrates": 5,
-    "fiber": 2,
-    "sugars": 0,
-    "fat": 16
-  }
+      "id": 37,
+      "title": "Sautéed Garlic Spinach",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "8 cups fresh spinach leaves, washed and trimmed",
+        "2 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large skillet, heat olive oil over medium-high heat.",
+        "Add minced garlic to the skillet and sauté for about 30 seconds, or until fragrant.",
+        "Add the fresh spinach leaves to the skillet. Use tongs to toss and turn the spinach leaves as they cook. Cook for 2-3 minutes, or until the spinach is wilted and tender.",
+        "Season the sautéed spinach with salt and pepper to taste.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your flavorful Sautéed Garlic Spinach as a side dish!"
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": 5,
+        "carbohydrates": 5,
+        "fiber": 3,
+        "sugars": 0,
+        "fat": 10
+      }
     },
     {
-        "id": 34,
-  "title": "Sausages with Tomato Chutney",
-  "servings": 2,
-  "category": "paleo weight loss",
-  "ingredients": [
-    "4 sausages (your choice of type)",
-    "1 cup cherry tomatoes, halved",
-    "1/2 cup red onion, finely chopped",
-    "2 cloves garlic, minced",
-    "1/4 cup balsamic vinegar",
-    "2 tablespoons olive oil",
-    "1 tablespoon brown sugar",
-    "Salt and pepper to taste",
-    "Fresh basil leaves for garnish (optional)"
-  ],
-  "instructions": [
-    "In a skillet, heat olive oil over medium-high heat.",
-    "Add sausages to the skillet and cook until browned and cooked through, about 15-20 minutes, turning occasionally. Remove from the skillet and set aside.",
-    "In the same skillet, add minced garlic and chopped red onion. Sauté for about 2-3 minutes until softened.",
-    "Stir in cherry tomatoes and cook for an additional 2-3 minutes until they start to soften.",
-    "Add balsamic vinegar, brown sugar, salt, and pepper to the skillet. Stir well and let it simmer for 5-7 minutes until the mixture thickens and becomes a chutney-like consistency.",
-    "Return the cooked sausages to the skillet and coat them with the tomato chutney mixture. Cook for another 2-3 minutes to heat through.",
-    "If desired, garnish with fresh basil leaves before serving.",
-    "Enjoy your Sausages with Tomato Chutney for a flavorful dinner!"
-  ],
-  "nutrition": {
-    "calories": 560,
-    "protein": 24,
-    "carbohydrates": 24,
-    "fiber": 2,
-    "sugars": 19,
-    "fat": 40
-  }
+      "id": 38,
+      "title": "Peppered Steaks",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 beef steaks (e.g., ribeye, sirloin)",
+        "2 tablespoons black peppercorns, crushed",
+        "1 tablespoon olive oil",
+        "1 tablespoon butter",
+        "2 cloves garlic, minced",
+        "Salt to taste",
+        "Fresh parsley for garnish (optional)"
+      ],
+      "instructions": [
+        "Season the beef steaks with salt and crushed black peppercorns, pressing the pepper into the steaks to adhere.",
+        "In a skillet, heat olive oil over medium-high heat.",
+        "Add the seasoned beef steaks to the skillet and cook to your desired level of doneness (e.g., about 3-4 minutes per side for medium-rare, adjust cooking time for your preference).",
+        "In the last minute of cooking, add minced garlic and butter to the skillet. Baste the steaks with the melted butter and garlic mixture.",
+        "Remove the steaks from the skillet and let them rest for a few minutes.",
+        "If desired, garnish with fresh parsley before serving.",
+        "Enjoy your Peppered Steaks for a delicious dinner!"
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 40,
+        "carbohydrates": 1,
+        "fiber": 0,
+        "sugars": 0,
+        "fat": 27
+      }
+    },
+    {
+      "id": 39,
+      "title": "Zucchini Spears",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 zucchini, cut into spears",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "Salt and pepper to taste",
+        "Grated Parmesan cheese for garnish (optional)"
+      ],
+      "instructions": [
+        "Preheat your oven to 425°F (220°C).",
+        "In a mixing bowl, toss the zucchini spears with olive oil, minced garlic, dried oregano, salt, and pepper until well coated.",
+        "Spread the seasoned zucchini spears in a single layer on a baking sheet lined with parchment paper.",
+        "Roast in the preheated oven for about 20-25 minutes, or until the zucchini is tender and slightly golden brown, flipping them halfway through.",
+        "If desired, garnish with grated Parmesan cheese before serving.",
+        "Enjoy your delicious Zucchini Spears as a side dish!"
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 2,
+        "carbohydrates": 7,
+        "fiber": 2,
+        "sugars": 3,
+        "fat": 13
+      }
+    },
+    {
+      "id": 40,
+      "title": "Balsamic Chicken and Mushrooms",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "8 oz mushrooms, sliced",
+        "2 cloves garlic, minced",
+        "2 tablespoons balsamic vinegar",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish (optional)"
+      ],
+      "instructions": [
+        "Season the chicken breasts with salt, pepper, and dried thyme.",
+        "In a skillet, heat olive oil over medium-high heat.",
+        "Add the seasoned chicken breasts to the skillet and cook for about 5-6 minutes per side, or until they are cooked through and no longer pink in the center. Remove from the skillet and set aside.",
+        "In the same skillet, add sliced mushrooms and minced garlic. Sauté for about 5 minutes, or until the mushrooms are tender and browned.",
+        "Pour balsamic vinegar into the skillet and stir to combine, allowing it to simmer for a minute or two until slightly reduced.",
+        "Return the cooked chicken breasts to the skillet, coating them with the mushroom and balsamic mixture.",
+        "If desired, garnish with fresh parsley before serving.",
+        "Enjoy your flavorful Balsamic Chicken and Mushrooms for dinner!"
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 32,
+        "carbohydrates": 7,
+        "fiber": 1,
+        "sugars": 3,
+        "fat": 21
+      }
+    },
+    {
+      "id": 41,
+      "title": "Zesty Tomato Soup",
+      "servings": 4,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 cans (28 oz each) crushed tomatoes",
+        "1 onion, diced",
+        "3 cloves garlic, minced",
+        "1 carrot, diced",
+        "1 celery stalk, diced",
+        "4 cups vegetable broth",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon red pepper flakes (adjust to taste)",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil",
+        "Fresh basil leaves for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large pot, heat olive oil over medium heat.",
+        "Add diced onion, minced garlic, diced carrot, and diced celery to the pot. Sauté for about 5 minutes, or until the vegetables are tender.",
+        "Stir in crushed tomatoes, vegetable broth, dried basil, dried oregano, red pepper flakes, salt, and pepper.",
+        "Bring the mixture to a boil, then reduce heat and simmer for about 15-20 minutes, allowing the flavors to meld together.",
+        "Use an immersion blender or transfer the soup to a blender (in batches) to puree until smooth and creamy.",
+        "Return the soup to the pot and heat through.",
+        "If desired, garnish with fresh basil leaves before serving.",
+        "Enjoy your Zesty Tomato Soup for a comforting dinner!"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbohydrates": 30,
+        "fiber": 7,
+        "sugars": 16,
+        "fat": 7
+      }
+    },
+    {
+      "id": 42,
+      "title": "Basic Chicken Salad",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 cups cooked chicken breast, diced",
+        "1/2 cup celery, diced",
+        "1/2 cup red grapes, halved",
+        "1/4 cup mayonnaise",
+        "1 tablespoon Dijon mustard",
+        "1 tablespoon fresh lemon juice",
+        "Salt and pepper to taste",
+        "Lettuce leaves or whole-grain bread for serving (optional)"
+      ],
+      "instructions": [
+        "In a mixing bowl, combine diced cooked chicken breast, diced celery, and halved red grapes.",
+        "In a separate small bowl, whisk together mayonnaise, Dijon mustard, fresh lemon juice, salt, and pepper to make the dressing.",
+        "Pour the dressing over the chicken salad mixture and toss until well coated.",
+        "Refrigerate the chicken salad for at least 30 minutes to allow the flavors to meld together.",
+        "Serve your Basic Chicken Salad on lettuce leaves or as a sandwich with whole-grain bread, if desired.",
+        "Enjoy your delicious and simple chicken salad for lunch!"
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 25,
+        "carbohydrates": 14,
+        "fiber": 2,
+        "sugars": 10,
+        "fat": 22
+      }
+    },
+    {
+      "id": 43,
+      "title": "Maple Glazed Salmon",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 salmon fillets",
+        "2 tablespoons maple syrup",
+        "1 tablespoon soy sauce",
+        "1 tablespoon Dijon mustard",
+        "1 clove garlic, minced",
+        "1/2 teaspoon ground ginger",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "In a small bowl, whisk together maple syrup, soy sauce, Dijon mustard, minced garlic, ground ginger, salt, and pepper to make the glaze.",
+        "Season the salmon fillets with a pinch of salt and pepper.",
+        "Brush the salmon fillets with the maple glaze, coating them evenly.",
+        "Preheat your grill or grill pan to medium-high heat. Grease the grill grates with oil to prevent sticking.",
+        "Place the glazed salmon fillets on the grill and cook for about 4-5 minutes per side, or until the salmon flakes easily with a fork and has a caramelized glaze.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your delicious Maple Glazed Salmon for dinner!"
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 30,
+        "carbohydrates": 14,
+        "fiber": 0,
+        "sugars": 12,
+        "fat": 17
+      }
+    },
+    {
+      "id": 44,
+      "title": "2-Minute Quick Broiled Tuna Steaks",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 tuna steaks (6 oz each)",
+        "2 tablespoons olive oil",
+        "1 clove garlic, minced",
+        "1 teaspoon lemon juice",
+        "1/2 teaspoon dried oregano",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "Preheat your broiler to high heat and position the oven rack about 4 inches from the broiler element.",
+        "In a small bowl, whisk together olive oil, minced garlic, lemon juice, dried oregano, salt, and pepper to make the marinade.",
+        "Place the tuna steaks on a broiler pan or a baking sheet lined with foil.",
+        "Brush the tuna steaks with the marinade, coating them evenly on both sides.",
+        "Broil the tuna steaks for about 1 minute on each side for rare, or adjust the cooking time for your desired level of doneness.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your quick and delicious Broiled Tuna Steaks for dinner!"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 35,
+        "carbohydrates": 2,
+        "fiber": 0,
+        "sugars": 0,
+        "fat": 14
+      }
+    },
+    {
+      "id": 45,
+      "title": "Grilled Asparagus",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "1 bunch asparagus spears",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "Preheat your grill to medium-high heat.",
+        "Trim the tough ends of the asparagus spears.",
+        "In a small bowl, combine olive oil, minced garlic, salt, and pepper.",
+        "Brush the asparagus spears with the olive oil mixture, coating them evenly.",
+        "Place the asparagus spears on the grill and cook for about 4-5 minutes, turning occasionally, or until they are tender and slightly charred.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your delicious Grilled Asparagus as a side dish!"
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": 2,
+        "carbohydrates": 5,
+        "fiber": 2,
+        "sugars": 2,
+        "fat": 6
+      }
+    },
+    {
+      "id": 27,
+      "title": "Seared Sesame-Crusted Tuna",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "2 tuna steaks (6 oz each)",
+        "1/4 cup sesame seeds",
+        "1 tablespoon soy sauce",
+        "1 tablespoon sesame oil",
+        "1 teaspoon grated fresh ginger",
+        "1 clove garlic, minced",
+        "Salt and pepper to taste",
+        "Lemon wedges for garnish (optional)"
+      ],
+      "instructions": [
+        "In a shallow dish, spread out the sesame seeds.",
+        "Season the tuna steaks with salt and pepper.",
+        "In a separate bowl, whisk together soy sauce, sesame oil, grated fresh ginger, and minced garlic to make the marinade.",
+        "Dip each tuna steak into the sesame seeds, pressing the seeds onto both sides to coat the tuna evenly.",
+        "Heat a skillet over high heat. Add a small amount of oil to prevent sticking if needed.",
+        "Sear the sesame-crusted tuna steaks for about 1-2 minutes per side, or until they are seared on the outside and rare in the center. Adjust the cooking time for your desired level of doneness.",
+        "If desired, garnish with lemon wedges before serving.",
+        "Enjoy your Seared Sesame-Crusted Tuna for a delicious dinner!"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 40,
+        "carbohydrates": 5,
+        "fiber": 2,
+        "sugars": 0,
+        "fat": 16
+      }
+    },
+    {
+      "id": 34,
+      "title": "Sausages with Tomato Chutney",
+      "servings": 2,
+      "category": "paleo weight loss",
+      "image": "",
+
+      "ingredients": [
+        "4 sausages (your choice of type)",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup red onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1/4 cup balsamic vinegar",
+        "2 tablespoons olive oil",
+        "1 tablespoon brown sugar",
+        "Salt and pepper to taste",
+        "Fresh basil leaves for garnish (optional)"
+      ],
+      "instructions": [
+        "In a skillet, heat olive oil over medium-high heat.",
+        "Add sausages to the skillet and cook until browned and cooked through, about 15-20 minutes, turning occasionally. Remove from the skillet and set aside.",
+        "In the same skillet, add minced garlic and chopped red onion. Sauté for about 2-3 minutes until softened.",
+        "Stir in cherry tomatoes and cook for an additional 2-3 minutes until they start to soften.",
+        "Add balsamic vinegar, brown sugar, salt, and pepper to the skillet. Stir well and let it simmer for 5-7 minutes until the mixture thickens and becomes a chutney-like consistency.",
+        "Return the cooked sausages to the skillet and coat them with the tomato chutney mixture. Cook for another 2-3 minutes to heat through.",
+        "If desired, garnish with fresh basil leaves before serving.",
+        "Enjoy your Sausages with Tomato Chutney for a flavorful dinner!"
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 24,
+        "carbohydrates": 24,
+        "fiber": 2,
+        "sugars": 19,
+        "fat": 40
     }
-
-
-
-
-
-
+      }
   ]
 }
