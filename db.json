@@ -1822,7 +1822,854 @@
     "sugars": 0,
     "fat": 16
   }
-}
+},
+
+    {
+        "id": 53,
+        "title": "Protein Greek Yogurt and Fruit Salad",
+        "image": "https://images.eatthismuch.com/img/906519_Shamarie84_535e8217-49b2-490e-9b1b-ad821299e0c6.png",
+        "servings": 2,
+        "category": "vegetarian weight loss",
+        "ingredients": [
+          "1 cup Greek yogurt",
+          "1 cup mixed berries (e.g., strawberries, blueberries, raspberries)",
+          "1/4 cup sliced almonds",
+          "1 tablespoon honey (optional)",
+          "Fresh mint leaves for garnish (optional)"
+        ],
+        "instructions": [
+          "In a bowl, add Greek yogurt.",
+          "Add mixed berries and sliced almonds.",
+          "If desired, drizzle with honey for sweetness.",
+          "Garnish with fresh mint leaves.",
+          "Serve your Protein Greek Yogurt and Fruit Salad as a delicious and nutritious meal!"
+        ],
+        "nutrition": {
+          "calories": 250,
+          "protein": 15,
+          "carbohydrates": 25,
+          "fiber": 5,
+          "sugars": 18,
+          "fat": 10
+        }
+},
+
+    {
+        "id": 54,
+        "title": "Cucumber Avocado Toast",
+        "image": "https://images.eatthismuch.com/img/331598_gracegza_bcc5693a-3949-4d6e-bdab-8689d40334e0.png",
+        "servings": 2,
+        "category": "vegetarian weight loss",
+        "ingredients": [
+          "2 slices whole-grain bread (or gluten-free bread if preferred)",
+          "1 ripe avocado, mashed",
+          "1/2 cucumber, thinly sliced",
+          "1 small red onion, thinly sliced",
+          "Cherry tomatoes, halved (optional)",
+          "Fresh cilantro leaves for garnish (optional)",
+          "Lemon juice, for drizzling",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Toast the whole-grain bread slices until they are crisp and golden.",
+          "Spread the mashed avocado evenly onto the toasted bread slices.",
+          "Layer the thinly sliced cucumber and red onion on top of the avocado.",
+          "If desired, add cherry tomato halves for extra flavor and color.",
+          "Drizzle lemon juice over the toppings and season with salt and pepper to taste.",
+          "Garnish with fresh cilantro leaves for added freshness and serve your Cucumber Avocado Toast!"
+        ],
+        "nutrition": {
+          "calories": 280,
+          "protein": 6,
+          "carbohydrates": 35,
+          "fiber": 10,
+          "sugars": 7,
+          "fat": 14
+        }
+},
+{
+    "id": 55,
+    "title": "Peaches and Cream Protein Shake",
+    "image": "https://images.eatthismuch.com/img/905808_elm333_b2f565a5-f043-45f1-bbd0-817e5f87b5a6.jpg",
+    "servings": 1,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup unsweetened almond milk",
+      "1 scoop vanilla protein powder",
+      "1/2 cup frozen peach slices",
+      "1/2 banana",
+      "1 tablespoon Greek yogurt (optional)",
+      "1/2 teaspoon honey (optional, for added sweetness)"
+    ],
+    "instructions": [
+      "In a blender, combine unsweetened almond milk and vanilla protein powder.",
+      "Add frozen peach slices and a ripe banana.",
+      "If desired, add Greek yogurt for creaminess and honey for sweetness.",
+      "Blend until smooth and creamy.",
+      "Pour your Peaches and Cream Protein Shake into a glass and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 25,
+      "carbohydrates": 35,
+      "fiber": 6,
+      "sugars": 20,
+      "fat": 4
+    }
+  },
+  {
+    "id": 56,
+    "title": "Peanut Butter Coconut Protein Smoothie",
+    "image": "https://images.eatthismuch.com/img/285034_barbarafurst_de75e993-b1e1-4b3c-a479-99a5afc27dbb.png",
+    "servings": 1,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup unsweetened coconut milk",
+      "1 scoop vanilla protein powder",
+      "1 tablespoon peanut butter",
+      "1/4 cup shredded coconut (unsweetened)",
+      "1/2 banana",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine unsweetened coconut milk and vanilla protein powder.",
+      "Add peanut butter, shredded coconut, and a ripe banana.",
+      "If desired, add ice cubes for a colder and thicker consistency.",
+      "Blend until smooth and creamy.",
+      "Pour your Peanut Butter Coconut Protein Smoothie into a glass and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 20,
+      "carbohydrates": 20,
+      "fiber": 6,
+      "sugars": 7,
+      "fat": 25
+    }
+  },
+  {
+    "id": 57,
+    "title": "Protein-Boosted Honey Yogurt",
+    "image": "https://images.eatthismuch.com/img/905738_ovaldes712_26743b9e-3542-4905-82c7-8b16206e850b.jpg",
+    "servings": 1,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1 tablespoon honey",
+      "1/4 cup sliced almonds",
+      "1/2 cup fresh berries (e.g., blueberries, raspberries)",
+      "1/2 teaspoon vanilla extract (optional)"
+    ],
+    "instructions": [
+      "In a bowl, combine Greek yogurt and honey.",
+      "Top with sliced almonds and fresh berries.",
+      "If desired, add a splash of vanilla extract for extra flavor.",
+      "Stir and enjoy your Protein-Boosted Honey Yogurt!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 20,
+      "carbohydrates": 30,
+      "fiber": 6,
+      "sugars": 22,
+      "fat": 18
+    }
+  },
+  {
+    "id": 58,
+    "title": "Bell Pepper Egg in a Hole",
+    "image": "https://images.eatthismuch.com/img/1488019_RaniaAmmaref6_f522d4be-e75c-4e81-aa66-c5c8b4e98896.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 large bell peppers (red, yellow, or green)",
+      "4 large eggs",
+      "Salt and pepper to taste",
+      "Olive oil for cooking"
+    ],
+    "instructions": [
+      "Cut the tops off the bell peppers and remove the seeds and membranes.",
+      "In a skillet, heat a small amount of olive oil over medium heat.",
+      "Place the bell pepper rings in the skillet and cook for a few minutes until they start to soften.",
+      "Carefully crack an egg into each bell pepper ring, keeping the yolk intact.",
+      "Season with salt and pepper to taste.",
+      "Cover the skillet and cook until the egg whites are set but the yolks are still runny.",
+      "Serve your Bell Pepper Egg in a Hole hot and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 8,
+      "carbohydrates": 6,
+      "fiber": 2,
+      "sugars": 3,
+      "fat": 10
+    }
+  },
+  {
+    "id": 59,
+    "title": "Blueberry Vanilla Greek Yogurt",
+    "image": "https://images.eatthismuch.com/img/906104_Shamarie84_b41b1f91-105f-416a-a75b-dfc644bb245d.png",
+    "servings": 1,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup Greek yogurt (vanilla-flavored)",
+      "1/2 cup fresh blueberries",
+      "1 tablespoon honey (optional, for added sweetness)",
+      "1/4 teaspoon vanilla extract (optional)"
+    ],
+    "instructions": [
+      "In a bowl, add vanilla-flavored Greek yogurt.",
+      "Top with fresh blueberries.",
+      "If desired, drizzle with honey for sweetness and add a touch of vanilla extract for flavor.",
+      "Stir and enjoy your Blueberry Vanilla Greek Yogurt!"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 15,
+      "carbohydrates": 30,
+      "fiber": 3,
+      "sugars": 23,
+      "fat": 4
+    }
+  },
+  {
+    "id": 60,
+    "title": "Cabbage Hash Browns",
+    "image": "https://images.eatthismuch.com/img/1476841_elm333_04f93f20-4917-45e9-bbfc-1f76ce5a63d2.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 cups shredded cabbage",
+      "1/4 cup onion, finely chopped",
+      "1 egg",
+      "2 tablespoons flour (e.g., almond flour or all-purpose flour)",
+      "Salt and pepper to taste",
+      "Olive oil for cooking"
+    ],
+    "instructions": [
+      "In a bowl, combine shredded cabbage, finely chopped onion, egg, and flour.",
+      "Season with salt and pepper to taste and mix until well combined.",
+      "Heat a skillet with a small amount of olive oil over medium heat.",
+      "Scoop the cabbage mixture onto the skillet to form hash browns.",
+      "Cook for a few minutes on each side until they are golden brown and crispy.",
+      "Serve your Cabbage Hash Browns hot and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 6,
+      "carbohydrates": 20,
+      "fiber": 5,
+      "sugars": 5,
+      "fat": 6
+    }
+  },
+  {
+    "id": 61,
+    "title": "Avocado Citrus Salad with Mint",
+    "image": "https://images.eatthismuch.com/img/337392_simmyras_ffb3184d-a69b-4d5e-bfb5-5136259e0d13.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 avocados, peeled, pitted, and sliced",
+      "2 oranges, peeled and sliced",
+      "1 grapefruit, peeled and sliced",
+      "Fresh mint leaves for garnish",
+      "1 tablespoon olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Arrange the sliced avocados, oranges, and grapefruit on a serving platter.",
+      "Garnish with fresh mint leaves.",
+      "In a small bowl, whisk together olive oil and balsamic vinegar.",
+      "Drizzle the dressing over the salad.",
+      "Season with salt and pepper to taste.",
+      "Serve your Avocado Citrus Salad with Mint and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 4,
+      "carbohydrates": 24,
+      "fiber": 10,
+      "sugars": 14,
+      "fat": 21
+    }
+  },
+  {
+    "id": 62,
+    "title": "Chocolate Peanut Butter Oatmeal Protein Shake",
+    "image": "https://images.eatthismuch.com/img/314803_hal200_70949a10-d7e7-49ce-84fa-09b92a760299.png",
+    "servings": 1,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup unsweetened almond milk",
+      "1 scoop chocolate protein powder",
+      "1/4 cup rolled oats",
+      "2 tablespoons peanut butter",
+      "1 tablespoon cocoa powder",
+      "1/2 banana",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine unsweetened almond milk and chocolate protein powder.",
+      "Add rolled oats, peanut butter, cocoa powder, and a ripe banana.",
+      "If desired, add ice cubes for a colder and thicker consistency.",
+      "Blend until smooth and creamy.",
+      "Pour your Chocolate Peanut Butter Oatmeal Protein Shake into a glass and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 28,
+      "carbohydrates": 38,
+      "fiber": 9,
+      "sugars": 9,
+      "fat": 18
+    }
+  },
+  {
+    "id": 63,
+    "title": "Tossed Salad with Artichoke Hearts and Chickpeas",
+    "image": "https://images.eatthismuch.com/img/1028325_elm333_772af7cf-d9cf-4e80-9161-3a92cb0839c4.jpeg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "4 cups mixed salad greens",
+      "1 cup canned chickpeas, drained and rinsed",
+      "1 cup canned artichoke hearts, drained and quartered",
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 cup red onion, thinly sliced",
+      "2 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large salad bowl, combine mixed salad greens, chickpeas, artichoke hearts, cherry tomatoes, and thinly sliced red onion.",
+      "In a small bowl, whisk together olive oil and balsamic vinegar to make the dressing.",
+      "Drizzle the dressing over the salad and toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve your Tossed Salad with Artichoke Hearts and Chickpeas and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 8,
+      "carbohydrates": 30,
+      "fiber": 9,
+      "sugars": 3,
+      "fat": 18
+    }
+  },
+  {
+    "id": 64,
+    "title": "Arugula Avocado Salad",
+    "image": "https://images.eatthismuch.com/img/339715_llindsley_1ffe68c3-d7fe-4f6b-b7af-61dde5e8af68.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "4 cups arugula",
+      "1 avocado, sliced",
+      "1/4 cup cherry tomatoes, halved",
+      "1/4 cup red onion, thinly sliced",
+      "2 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a salad bowl, combine arugula, sliced avocado, halved cherry tomatoes, and thinly sliced red onion.",
+      "In a small bowl, whisk together olive oil and balsamic vinegar to make the dressing.",
+      "Drizzle the dressing over the salad and toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve your Arugula Avocado Salad and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 3,
+      "carbohydrates": 11,
+      "fiber": 6,
+      "sugars": 2,
+      "fat": 22
+    }
+  },
+  {
+    "id": 65,
+    "title": "Quick Nori Roll with Cucumber and Avocado",
+    "image": "https://images.eatthismuch.com/img/331920_mabeloheca_9eb43396-9f7e-4b9f-9856-40b00cc94aca.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 sheets nori (seaweed) paper",
+      "1/2 cucumber, julienned",
+      "1 avocado, sliced",
+      "Soy sauce or tamari for dipping (optional)"
+    ],
+    "instructions": [
+      "Lay a sheet of nori paper on a clean, flat surface.",
+      "Place half of the julienned cucumber and half of the sliced avocado on the nori paper, leaving some space at the edges.",
+      "Roll the nori paper tightly into a roll, sealing the edge with a little water if needed.",
+      "Repeat the process with the second sheet of nori and the remaining cucumber and avocado.",
+      "Slice each roll into bite-sized pieces.",
+      "Serve your Quick Nori Roll with Cucumber and Avocado with soy sauce or tamari for dipping if desired, and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "carbohydrates": 12,
+      "fiber": 7,
+      "sugars": 1,
+      "fat": 15
+    }
+  },
+  {
+    "id": 66,
+    "title": "Chocolate Almond Milk Protein Shake",
+    "image": "https://images.eatthismuch.com/img/944130_elm333_546a48a8-07f6-4b77-a20c-7281f4a15d37.jpg",
+    "servings": 1,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup unsweetened almond milk",
+      "1 scoop chocolate protein powder",
+      "1 tablespoon almond butter",
+      "1/2 ripe banana",
+      "1 tablespoon cocoa powder",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine unsweetened almond milk and chocolate protein powder.",
+      "Add almond butter, a ripe banana, and cocoa powder.",
+      "If desired, add ice cubes for a colder and thicker consistency.",
+      "Blend until smooth and creamy.",
+      "Serve your Chocolate Almond Milk Protein Shake and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 26,
+      "carbohydrates": 27,
+      "fiber": 7,
+      "sugars": 11,
+      "fat": 18
+    }
+  },
+  {
+    "id": 67,
+    "title": "Summer Pepper and Tomato Salad",
+    "image": "https://images.eatthismuch.com/img/905579_Shamarie84_b12fc1a7-77fb-43fa-b5a8-813557a8f2bf.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 bell peppers (red, yellow, or orange), thinly sliced",
+      "2 tomatoes, thinly sliced",
+      "1/4 red onion, thinly sliced",
+      "1/4 cup fresh basil leaves, torn",
+      "2 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine thinly sliced bell peppers, tomatoes, red onion, and torn fresh basil leaves.",
+      "In a small bowl, whisk together olive oil and balsamic vinegar to make the dressing.",
+      "Drizzle the dressing over the salad and toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve your Summer Pepper and Tomato Salad and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "carbohydrates": 14,
+      "fiber": 4,
+      "sugars": 7,
+      "fat": 14
+    }
+  },
+  {
+    "id": 68,
+    "title": "Quick and Easy Low-Carb Caprese Salad",
+    "image": "https://images.eatthismuch.com/img/906415_tabitharwheeler_07eedaf6-fad5-4e0b-b8db-ee9d155e552a.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 large tomatoes, sliced",
+      "1/2 cup fresh mozzarella cheese, sliced",
+      "1/4 cup fresh basil leaves",
+      "2 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "On a serving platter, arrange the slices of tomatoes and fresh mozzarella cheese alternately.",
+      "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+      "In a small bowl, whisk together olive oil and balsamic vinegar to make the dressing.",
+      "Drizzle the dressing over the salad.",
+      "Season with salt and pepper to taste.",
+      "Serve your Quick and Easy Low-Carb Caprese Salad and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 8,
+      "carbohydrates": 6,
+      "fiber": 2,
+      "sugars": 4,
+      "fat": 21
+    }
+  },
+  {
+    "id": 69,
+    "title": "Ole Salad",
+    "image": "https://images.eatthismuch.com/img/34855_erin_m_8bc8f248-99c0-4ddd-9214-b59105a839f3.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup canned black beans, drained and rinsed",
+      "1 cup corn kernels (fresh, frozen, or canned)",
+      "1/2 cup red bell pepper, diced",
+      "1/4 cup red onion, finely chopped",
+      "2 tablespoons fresh cilantro, chopped",
+      "2 tablespoons lime juice",
+      "1 tablespoon olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine drained and rinsed black beans, corn kernels, diced red bell pepper, finely chopped red onion, and chopped fresh cilantro.",
+      "In a small bowl, whisk together lime juice and olive oil to make the dressing.",
+      "Drizzle the dressing over the salad and toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve your Ole Salad and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 10,
+      "carbohydrates": 46,
+      "fiber": 12,
+      "sugars": 7,
+      "fat": 7
+    }
+  },
+  {
+    "id": 70,
+    "title": "Grilled Zucchini Nachos",
+    "image": "https://images.eatthismuch.com/img/331279_bbebber_cce0bf42-0da9-4f06-a888-1869daab5c18.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 large zucchini, sliced into rounds",
+      "1 cup shredded cheddar cheese",
+      "1/2 cup diced tomatoes",
+      "1/4 cup sliced black olives",
+      "1/4 cup diced red onion",
+      "1/4 cup chopped fresh cilantro",
+      "1/4 cup sour cream (optional)",
+      "Salsa for serving (optional)"
+    ],
+    "instructions": [
+      "Preheat a grill or grill pan to medium-high heat.",
+      "Place the zucchini rounds on the grill and cook for 2-3 minutes per side, or until they have grill marks and are tender.",
+      "Remove the zucchini rounds from the grill and arrange them on a serving platter.",
+      "Sprinkle shredded cheddar cheese over the grilled zucchini rounds.",
+      "Top with diced tomatoes, sliced black olives, diced red onion, and chopped fresh cilantro.",
+      "If desired, drizzle with sour cream and serve with salsa.",
+      "Enjoy your Grilled Zucchini Nachos!"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 14,
+      "carbohydrates": 12,
+      "fiber": 3,
+      "sugars": 6,
+      "fat": 20
+    }
+  },
+  {
+    "id": 71,
+    "title": "Broccoli with Hummus and Sesame Seeds",
+    "image": "https://images.eatthismuch.com/img/331898_JazOcho_d0b06ec6-157f-45e9-b2b4-89dc20807cca.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 cups broccoli florets, steamed or blanched",
+      "1/4 cup hummus",
+      "1 tablespoon sesame seeds",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Steam or blanch the broccoli florets until they are tender but still crisp. Drain and let them cool slightly.",
+      "In a bowl, toss the steamed or blanched broccoli florets with hummus to coat evenly.",
+      "Sprinkle sesame seeds over the broccoli and season with salt and pepper to taste.",
+      "Serve your Broccoli with Hummus and Sesame Seeds as a tasty and healthy side dish!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 5,
+      "carbohydrates": 11,
+      "fiber": 4,
+      "sugars": 2,
+      "fat": 10
+    }
+  },
+  {
+    "id": 72,
+    "title": "Lentils with Veggies, Avocado, Walnuts, and Hummus",
+    "image": "https://images.eatthismuch.com/img/371831_AliceOcho_745d2e87-2c15-4d17-be2d-93d8547b101b.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 cup cooked green lentils",
+      "1 cup mixed vegetables (e.g., bell peppers, cherry tomatoes, cucumber), diced",
+      "1 avocado, sliced",
+      "1/4 cup walnuts, chopped",
+      "2 tablespoons hummus",
+      "2 tablespoons olive oil",
+      "1 tablespoon lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine cooked green lentils, diced mixed vegetables, sliced avocado, and chopped walnuts.",
+      "In a separate small bowl, whisk together olive oil and lemon juice to make the dressing.",
+      "Drizzle the dressing over the lentil and vegetable mixture.",
+      "Add hummus to the bowl and gently toss everything to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve your Lentils with Veggies, Avocado, Walnuts, and Hummus as a nutritious and satisfying meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 14,
+      "carbohydrates": 30,
+      "fiber": 11,
+      "sugars": 3,
+      "fat": 34
+    }
+  },
+  {
+    "id": 73,
+    "title": "Teriyaki Chickpeas",
+    "image": "https://images.eatthismuch.com/img/3231755_sreenidhd_49d6dbdf-e957-4620-8a96-c56526422d98.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 can (15 oz) chickpeas, drained and rinsed",
+      "2 tablespoons teriyaki sauce",
+      "1 tablespoon low-sodium soy sauce",
+      "1 tablespoon honey (or maple syrup for a vegan option)",
+      "1/2 teaspoon minced garlic",
+      "1/2 teaspoon grated ginger",
+      "1/4 teaspoon red pepper flakes (adjust to taste)",
+      "Sesame seeds and sliced green onions for garnish"
+    ],
+    "instructions": [
+      "In a bowl, whisk together teriyaki sauce, low-sodium soy sauce, honey (or maple syrup), minced garlic, grated ginger, and red pepper flakes to make the teriyaki sauce.",
+      "Add the drained and rinsed chickpeas to a skillet over medium-high heat.",
+      "Pour the teriyaki sauce over the chickpeas and stir to coat evenly.",
+      "Cook for about 5-7 minutes, stirring occasionally, until the chickpeas are heated through and the sauce has thickened.",
+      "Serve your Teriyaki Chickpeas hot, garnished with sesame seeds and sliced green onions.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 10,
+      "carbohydrates": 60,
+      "fiber": 10,
+      "sugars": 20,
+      "fat": 5
+    }
+  },
+  {
+    "id": 74,
+    "title": "Edamame Slaw",
+    "image": "https://images.eatthismuch.com/img/3269232_Icyssh_45df00c8-7722-48c2-ba6e-9af72fb1133d.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 cups shredded green cabbage",
+      "1 cup shelled edamame, cooked and cooled",
+      "1/2 cup shredded carrots",
+      "1/4 cup chopped red bell pepper",
+      "2 tablespoons chopped fresh cilantro",
+      "2 tablespoons rice vinegar",
+      "1 tablespoon low-sodium soy sauce",
+      "1 teaspoon sesame oil",
+      "1/2 teaspoon honey (or maple syrup for a vegan option)",
+      "Sesame seeds for garnish (optional)"
+    ],
+    "instructions": [
+      "In a large bowl, combine shredded green cabbage, cooked and cooled shelled edamame, shredded carrots, chopped red bell pepper, and chopped fresh cilantro.",
+      "In a separate small bowl, whisk together rice vinegar, low-sodium soy sauce, sesame oil, and honey (or maple syrup) to make the dressing.",
+      "Drizzle the dressing over the slaw mixture and toss to combine, ensuring everything is evenly coated.",
+      "If desired, garnish with sesame seeds.",
+      "Serve your Edamame Slaw as a delicious and nutritious side dish or light meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 11,
+      "carbohydrates": 20,
+      "fiber": 7,
+      "sugars": 8,
+      "fat": 6
+    }
+  },
+  {
+    "id": 75,
+    "title": "Peanut Tofu",
+    "image": "https://images.eatthismuch.com/img/35160_Therapeut…dvantage_c13db069-e312-4e66-9602-741a6cb9dc01.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "8 oz extra-firm tofu, cubed",
+      "2 tablespoons peanut butter",
+      "1 tablespoon low-sodium soy sauce",
+      "1 tablespoon rice vinegar",
+      "1 teaspoon sesame oil",
+      "1/2 teaspoon minced garlic",
+      "1/2 teaspoon grated ginger",
+      "1/4 teaspoon red pepper flakes (adjust to taste)",
+      "2 cups broccoli florets, steamed or blanched",
+      "Sesame seeds and chopped green onions for garnish (optional)"
+    ],
+    "instructions": [
+      "In a bowl, whisk together peanut butter, low-sodium soy sauce, rice vinegar, sesame oil, minced garlic, grated ginger, and red pepper flakes to make the peanut sauce.",
+      "Heat a skillet over medium-high heat and add the cubed tofu. Cook for about 4-5 minutes per side, or until the tofu is golden brown and crispy.",
+      "Add the steamed or blanched broccoli florets to the skillet with the tofu and pour the peanut sauce over them.",
+      "Stir to coat the tofu and broccoli with the sauce. Cook for an additional 2-3 minutes until heated through.",
+      "Serve your Peanut Tofu hot, garnished with sesame seeds and chopped green onions if desired.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 20,
+      "carbohydrates": 16,
+      "fiber": 4,
+      "sugars": 4,
+      "fat": 26
+    }
+  },
+  {
+    "id": 76,
+    "title": "Vegetable Stir-Fry",
+    "image": "https://images.eatthismuch.com/img/905816_Shamarie84_b5b8c047-0e24-4286-a3ee-69aeb1c7a06c.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 cups mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas), sliced",
+      "1 cup tofu, cubed",
+      "2 tablespoons low-sodium soy sauce",
+      "1 tablespoon sesame oil",
+      "1 teaspoon minced garlic",
+      "1/2 teaspoon grated ginger",
+      "1/4 teaspoon red pepper flakes (adjust to taste)",
+      "Sesame seeds and chopped green onions for garnish (optional)",
+      "Cooked brown rice or quinoa for serving"
+    ],
+    "instructions": [
+      "In a bowl, whisk together low-sodium soy sauce, sesame oil, minced garlic, grated ginger, and red pepper flakes to make the stir-fry sauce.",
+      "Heat a large skillet or wok over medium-high heat. Add the cubed tofu and cook until it's golden brown and crispy, about 4-5 minutes per side.",
+      "Add the sliced mixed vegetables to the skillet and stir-fry for about 5-7 minutes, or until they are tender-crisp.",
+      "Pour the stir-fry sauce over the tofu and vegetables. Stir to coat everything with the sauce and cook for an additional 2-3 minutes until heated through.",
+      "Serve your Vegetable Stir-Fry hot over cooked brown rice or quinoa, and garnish with sesame seeds and chopped green onions if desired.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 18,
+      "carbohydrates": 18,
+      "fiber": 5,
+      "sugars": 6,
+      "fat": 18
+    }
+  },
+  {
+    "id": 77,
+    "title": "Low-Fat Bean and Cheese Burrito",
+    "image": "https://images.eatthismuch.com/img/322441_alijohns_363efd18-41a6-4f03-ac15-67de3ee560a0.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 whole wheat tortillas",
+      "1 can (15 oz) low-fat refried beans",
+      "1 cup cooked brown rice",
+      "1/2 cup reduced-fat shredded cheese",
+      "1/2 cup salsa",
+      "1/4 cup chopped fresh cilantro",
+      "1/4 cup chopped red onion",
+      "1/4 cup chopped tomatoes",
+      "1/4 cup chopped lettuce",
+      "1/4 cup non-fat Greek yogurt (optional, for topping)"
+    ],
+    "instructions": [
+      "Warm the whole wheat tortillas in a microwave or on a skillet to make them pliable.",
+      "Spread a layer of low-fat refried beans on each tortilla, leaving some space around the edges.",
+      "Add cooked brown rice, reduced-fat shredded cheese, salsa, chopped fresh cilantro, chopped red onion, chopped tomatoes, and chopped lettuce on top of the beans.",
+      "Fold the sides of the tortilla inwards, then roll it up tightly from the bottom to create a burrito.",
+      "If desired, top the burritos with non-fat Greek yogurt.",
+      "Serve your Low-Fat Bean and Cheese Burritos hot and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 15,
+      "carbohydrates": 65,
+      "fiber": 10,
+      "sugars": 5,
+      "fat": 4
+    }
+  },
+  {
+    "id": 78,
+    "title": "Basil Pesto Pasta with Roasted Veggies",
+    "image": "https://images.eatthismuch.com/img/300482_kgines_51ee0f65-192d-4f47-b92f-f3fd34cb37a6.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "8 oz whole wheat pasta",
+      "1 cup cherry tomatoes, halved",
+      "1 cup zucchini, sliced",
+      "1/2 cup red bell pepper, sliced",
+      "2 tablespoons basil pesto sauce",
+      "1 tablespoon olive oil",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 400°F (200°C).",
+      "In a bowl, combine cherry tomatoes, sliced zucchini, sliced red bell pepper, olive oil, salt, and pepper. Toss to coat the vegetables in the oil and seasonings.",
+      "Spread the vegetables on a baking sheet in a single layer and roast in the preheated oven for about 20 minutes, or until they are tender and slightly caramelized.",
+      "While the vegetables are roasting, cook the whole wheat pasta according to the package instructions until al dente. Drain and set aside.",
+      "In a large bowl, toss the cooked pasta with basil pesto sauce until it's well coated.",
+      "Once the roasted veggies are ready, add them to the pasta and gently mix to combine.",
+      "Serve your Basil Pesto Pasta with Roasted Veggies hot, garnished with grated Parmesan cheese if desired.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 12,
+      "carbohydrates": 65,
+      "fiber": 10,
+      "sugars": 6,
+      "fat": 14
+    }
+  }
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
       
   ]
