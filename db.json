@@ -2644,7 +2644,868 @@
       "sugars": 6,
       "fat": 14
     }
+  },
+  {
+    "id": 79,
+    "title": "Tempeh Strips with Almond Sauce",
+    "image": "https://images.eatthismuch.com/img/208123_tabitharwheeler_df3090b6-406a-4d1a-b24d-d679953441ac.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "8 oz tempeh, cut into strips",
+      "1/4 cup almond butter",
+      "2 tablespoons low-sodium soy sauce or tamari",
+      "1 tablespoon maple syrup",
+      "1 tablespoon rice vinegar",
+      "1 clove garlic, minced",
+      "1/2 teaspoon grated ginger",
+      "1/4 teaspoon red pepper flakes (adjust to taste)",
+      "2 tablespoons water",
+      "2 cups steamed broccoli florets",
+      "Sesame seeds and chopped green onions for garnish (optional)"
+    ],
+    "instructions": [
+      "In a bowl, whisk together almond butter, low-sodium soy sauce, maple syrup, rice vinegar, minced garlic, grated ginger, red pepper flakes, and water to make the almond sauce. Adjust the water for desired consistency.",
+      "Heat a skillet over medium heat. Add the tempeh strips and cook for about 3-4 minutes per side until they are golden and heated through.",
+      "Pour the almond sauce over the cooked tempeh strips and stir to coat them evenly with the sauce. Cook for an additional 1-2 minutes.",
+      "Serve the Tempeh Strips with Almond Sauce hot over steamed broccoli florets.",
+      "Garnish with sesame seeds and chopped green onions if desired.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 30,
+      "carbohydrates": 30,
+      "fiber": 10,
+      "sugars": 8,
+      "fat": 26
+    }
+  },
+  {
+    "id": 80,
+    "title": "Peaches and Almond Butter on Toast",
+    "image": "https://images.eatthismuch.com/img/331582_tabitharwheeler_f9770a46-652d-44ec-a1db-5322f9ad639c.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "2 slices whole grain bread",
+      "4 tablespoons almond butter",
+      "1 ripe peach, thinly sliced",
+      "1 tablespoon chia seeds (optional, for topping)",
+      "Drizzle of honey or maple syrup (optional, for sweetness)"
+    ],
+    "instructions": [
+      "Toast the whole grain bread slices until they are crispy and golden brown.",
+      "Spread 2 tablespoons of almond butter on each toast slice.",
+      "Arrange the thinly sliced ripe peach on top of the almond butter layer.",
+      "If desired, drizzle honey or maple syrup for a touch of sweetness.",
+      "Sprinkle chia seeds on top for added texture and nutrition.",
+      "Serve your Peaches and Almond Butter on Toast and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 9,
+      "carbohydrates": 35,
+      "fiber": 9,
+      "sugars": 14,
+      "fat": 21
+    }
+  },
+  {
+    "id": 81,
+    "title": "Classic Avocado Toast",
+    "image": "https://images.eatthismuch.com/img/326989_simmyras_12ba16fc-c5c3-4d67-a403-5003308c7ead.png",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "2 slices whole grain bread",
+      "1 ripe avocado, mashed",
+      "1/2 lemon, juiced",
+      "Salt and pepper to taste",
+      "Red pepper flakes (optional, for spice)",
+      "2 tablespoons chopped fresh cilantro (optional, for garnish)"
+    ],
+    "instructions": [
+      "Toast the whole grain bread slices until they are crispy and golden brown.",
+      "In a bowl, mash the ripe avocado with lemon juice, salt, and pepper to taste. Mash until smooth and well combined.",
+      "Spread the avocado mixture evenly on the toasted bread slices.",
+      "If desired, sprinkle red pepper flakes for a touch of spice.",
+      "Garnish with chopped fresh cilantro for extra flavor and color.",
+      "Serve your Classic Avocado Toast and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "carbohydrates": 27,
+      "fiber": 7,
+      "sugars": 1,
+      "fat": 15
+    }
+  },
+  {
+    "id": 82,
+    "title": "Blueberry Watermelon Smoothie",
+    "image": "https://images.eatthismuch.com/img/905723_elm333_b4064044-ee79-41f7-a15e-cbecb8cce166.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "1 cup blueberries (fresh or frozen)",
+      "1 cup watermelon cubes, seedless",
+      "1 ripe banana",
+      "1/2 cup unsweetened almond milk (or any plant-based milk)",
+      "1/2 cup spinach leaves",
+      "1 tablespoon chia seeds (optional, for added nutrition)",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine blueberries, watermelon cubes, ripe banana, unsweetened almond milk, and spinach leaves.",
+      "If desired, add chia seeds for added nutrition and ice cubes for a colder smoothie.",
+      "Blend all ingredients until smooth and creamy.",
+      "Pour the Blueberry Watermelon Smoothie into glasses and serve immediately.",
+      "Enjoy your refreshing and nutritious smoothie!"
+    ],
+    "nutrition": {
+      "calories": 170,
+      "protein": 3,
+      "carbohydrates": 38,
+      "fiber": 6,
+      "sugars": 23,
+      "fat": 3
+    }
+  },
+  {
+    "id": 83,
+    "title": "Blackberry Almond Butter Sandwich",
+    "image": "https://images.eatthismuch.com/img/1481925_Magikarper_3718d194-9750-497e-8144-a8a24f698592.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 slices whole grain bread",
+      "1/2 cup almond butter",
+      "1 cup fresh blackberries",
+      "Drizzle of honey or maple syrup (optional, for sweetness)"
+    ],
+    "instructions": [
+      "Spread almond butter on two slices of whole grain bread.",
+      "Top with fresh blackberries, pressing them gently into the almond butter.",
+      "Drizzle honey or maple syrup for added sweetness, if desired.",
+      "Place the remaining two slices of bread on top to make sandwiches.",
+      "Cut each sandwich in half diagonally to create four triangular sandwiches.",
+      "Serve your Blackberry Almond Butter Sandwiches and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 370,
+      "protein": 11,
+      "carbohydrates": 40,
+      "fiber": 12,
+      "sugars": 11,
+      "fat": 21
+    }
+  },
+  {
+    "id": 84,
+    "title": "Dairy-Free Strawberry Oatmeal",
+    "image": "https://images.eatthismuch.com/img/717789_HeartofHarkness_e71ac732-367e-4940-9f38-53f67d348483.png",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "1 cup rolled oats",
+      "2 cups unsweetened almond milk (or any plant-based milk)",
+      "1 cup fresh strawberries, sliced",
+      "1 tablespoon maple syrup (optional, for sweetness)",
+      "1/4 cup chopped almonds (optional, for crunch)",
+      "1/2 teaspoon vanilla extract (optional, for flavor)"
+    ],
+    "instructions": [
+      "In a saucepan, combine rolled oats and unsweetened almond milk.",
+      "Heat over medium heat and bring to a simmer.",
+      "Reduce heat to low and cook, stirring occasionally, for about 5-7 minutes or until the oats are creamy and tender.",
+      "Remove from heat and stir in maple syrup and vanilla extract, if desired, for sweetness and flavor.",
+      "Divide the oatmeal into two bowls.",
+      "Top with sliced fresh strawberries and chopped almonds for added texture and flavor.",
+      "Serve your Dairy-Free Strawberry Oatmeal hot and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 9,
+      "carbohydrates": 56,
+      "fiber": 9,
+      "sugars": 9,
+      "fat": 11
+    }
+  },
+  {
+    "id": 85,
+    "title": "Apple Granola Cookies",
+    "image": "https://images.eatthismuch.com/img/907128_wht4g9chhn_f5465041-6751-4cd2-9123-206f47df7b48.jpeg",
+    "servings": 12,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "2 cups rolled oats",
+      "1/2 cup unsweetened applesauce",
+      "1/4 cup maple syrup",
+      "1/4 cup almond butter (or any nut butter)",
+      "1 teaspoon ground cinnamon",
+      "1/2 teaspoon vanilla extract",
+      "1/2 cup dried cranberries",
+      "1/4 cup chopped walnuts",
+      "1/4 cup dried apple bits (unsweetened)"
+    ],
+    "instructions": [
+      "Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+      "In a large mixing bowl, combine rolled oats, unsweetened applesauce, maple syrup, almond butter, ground cinnamon, and vanilla extract. Mix until well combined.",
+      "Fold in dried cranberries, chopped walnuts, and dried apple bits into the oat mixture.",
+      "Use a spoon or your hands to form the mixture into 12 evenly sized cookies. Place them on the prepared baking sheet.",
+      "Bake in the preheated oven for 15-20 minutes or until the cookies are golden brown and set.",
+      "Remove from the oven and let them cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely.",
+      "Enjoy your homemade Apple Granola Cookies!"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 3,
+      "carbohydrates": 23,
+      "fiber": 3,
+      "sugars": 10,
+      "fat": 6
+    }
+  },
+  {
+    "id": 86,
+    "title": "Banana, Almond Butter, and Dates",
+    "image": "https://images.eatthismuch.com/img/905688_ActionPete_c86387a9-9c23-434d-b4ab-62d403f54779.jpeg",
+    "servings": 1,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "1 medium banana",
+      "2 tablespoons almond butter",
+      "4 Medjool dates, pitted",
+      "1/4 teaspoon cinnamon (optional, for flavor)",
+      "A pinch of sea salt (optional, for flavor)"
+    ],
+    "instructions": [
+      "Peel the banana and slice it into bite-sized pieces.",
+      "In a small bowl, combine almond butter and cinnamon, if using.",
+      "Stuff each Medjool date with a small amount of almond butter mixture.",
+      "Sprinkle a pinch of sea salt on top of each almond butter-stuffed date.",
+      "Serve your Banana, Almond Butter, and Dates as a healthy and satisfying snack!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 5,
+      "carbohydrates": 77,
+      "fiber": 9,
+      "sugars": 59,
+      "fat": 12
+    }
+  },
+  {
+    "id": 87,
+    "title": "Peach and Strawberry Smoothie",
+    "image": "https://images.eatthismuch.com/img/412941_tabitharwheeler_303958db-8e3f-4f42-b64e-d69a58ff9fcf.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "1 cup frozen peach slices",
+      "1 cup frozen strawberries",
+      "1 ripe banana",
+      "1 cup unsweetened almond milk (or any plant-based milk)",
+      "1 tablespoon chia seeds",
+      "1 teaspoon honey or maple syrup (optional, for sweetness)"
+    ],
+    "instructions": [
+      "In a blender, combine frozen peach slices, frozen strawberries, ripe banana, unsweetened almond milk, and chia seeds.",
+      "If desired, add honey or maple syrup for sweetness.",
+      "Blend all ingredients until smooth and creamy.",
+      "Pour the smoothie into glasses and enjoy your Peach and Strawberry Smoothie!"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 4,
+      "carbohydrates": 47,
+      "fiber": 10,
+      "sugars": 28,
+      "fat": 4
+    }
+  },
+  {
+    "id": 88,
+    "title": "Easy Spinach and Scallion Salad",
+    "image": "https://images.eatthismuch.com/img/906241_shams___1e567752-9c1c-458d-add1-3757374d366b.png",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 cups fresh spinach leaves",
+      "4 scallions, thinly sliced",
+      "1/4 cup sliced almonds",
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine fresh spinach leaves, thinly sliced scallions, and sliced almonds.",
+      "In a small bowl, whisk together extra-virgin olive oil and balsamic vinegar to make the dressing.",
+      "Drizzle the dressing over the salad and toss to coat all the ingredients evenly.",
+      "Season with salt and pepper to taste.",
+      "Serve your Easy Spinach and Scallion Salad as a delicious and nutritious side dish or light meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 5,
+      "carbohydrates": 9,
+      "fiber": 4,
+      "sugars": 2,
+      "fat": 17
+    }
+  },
+  {
+    "id": 89,
+    "title": "Cucumber Boats with Spicy Hummus",
+    "image": "https://images.eatthismuch.com/img/1520166_elm333_ead8e862-f835-48b1-bce8-b72b8ac4a0a9.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "2 large cucumbers",
+      "1 cup homemade or store-bought spicy hummus",
+      "1/4 cup cherry tomatoes, halved",
+      "1/4 cup cucumber, diced",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup fresh cilantro, chopped",
+      "Salt and pepper to taste",
+      "Lemon wedges for garnish (optional)"
+    ],
+    "instructions": [
+      "Cut the cucumbers in half lengthwise and scoop out the seeds to create boat-shaped cucumber halves.",
+      "Fill each cucumber boat with spicy hummus.",
+      "Top with halved cherry tomatoes, diced cucumber, finely chopped red onion, and fresh cilantro.",
+      "Season with salt and pepper to taste.",
+      "Garnish with lemon wedges if desired.",
+      "Serve your Cucumber Boats with Spicy Hummus as a refreshing and flavorful snack or appetizer!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 11,
+      "carbohydrates": 39,
+      "fiber": 11,
+      "sugars": 9,
+      "fat": 16
+    }
+  },
+  {
+    "id": 90,
+    "title": "Spinach and Broccoli Salad",
+    "image": "https://images.eatthismuch.com/img/3267502_elm333_98a658a4-fc0c-4e82-8c09-95accbff3b3e.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 cups fresh spinach leaves",
+      "1 cup broccoli florets, blanched and cooled",
+      "1/4 cup red onion, thinly sliced",
+      "1/4 cup toasted sunflower seeds",
+      "1/4 cup raisins or dried cranberries",
+      "2 tablespoons balsamic vinaigrette dressing",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine fresh spinach leaves, blanched broccoli florets, thinly sliced red onion, toasted sunflower seeds, and raisins or dried cranberries.",
+      "Drizzle balsamic vinaigrette dressing over the salad.",
+      "Season with salt and pepper to taste.",
+      "Toss all the ingredients together until well coated with the dressing.",
+      "Serve your Spinach and Broccoli Salad as a nutritious and satisfying side dish or meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 7,
+      "carbohydrates": 36,
+      "fiber": 7,
+      "sugars": 17,
+      "fat": 14
+    }
+  },
+  {
+    "id": 91,
+    "title": "Mixed Greens with Olive Oil and Lemon Salad Dressing",
+    "image": "https://images.eatthismuch.com/img/1021700_tabitharwheeler_26b2fc97-63f7-47c8-8a04-74b09cb867df.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 cups mixed greens (e.g., lettuce, spinach, arugula)",
+      "2 tablespoons extra-virgin olive oil",
+      "1 lemon, juiced",
+      "1 clove garlic, minced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine mixed greens of your choice.",
+      "In a separate small bowl, whisk together extra-virgin olive oil, freshly squeezed lemon juice, minced garlic, salt, and pepper to make the salad dressing.",
+      "Drizzle the dressing over the mixed greens.",
+      "Toss the salad to ensure all the greens are coated with the dressing.",
+      "Serve your Mixed Greens with Olive Oil and Lemon Salad Dressing as a refreshing and healthy side dish!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 2,
+      "carbohydrates": 9,
+      "fiber": 3,
+      "sugars": 2,
+      "fat": 13
+    }
+  },
+  {
+    "id": 92,
+    "title": "Seedy Avocado Toast",
+    "image": "https://images.eatthismuch.com/img/412975_cyberchristie_b043c692-12e4-4285-83f7-c31e41f9731f.png",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "2 slices whole-grain bread, toasted",
+      "1 ripe avocado, peeled and sliced",
+      "2 tablespoons mixed seeds (e.g., chia seeds, flaxseeds, sesame seeds)",
+      "1 tablespoon lemon juice",
+      "Salt and pepper to taste",
+      "Red pepper flakes for garnish (optional)"
+    ],
+    "instructions": [
+      "Toast the slices of whole-grain bread until they are golden and crispy.",
+      "In a small bowl, mash the ripe avocado slices with lemon juice, salt, and pepper to create an avocado spread.",
+      "Spread the avocado mixture evenly onto the toasted bread slices.",
+      "Sprinkle mixed seeds over the avocado spread.",
+      "If desired, garnish with red pepper flakes for a touch of heat.",
+      "Serve your Seedy Avocado Toast as a nutritious and delicious breakfast or snack!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "carbohydrates": 20,
+      "fiber": 10,
+      "sugars": 1,
+      "fat": 18
+    }
+  },
+  {
+    "id": 93,
+    "title": "Quick and Easy Vegan Caesar Salad",
+    "image": "https://images.eatthismuch.com/img/1497123_elm333_1506fcc1-7e6b-494f-af78-556467b5f766.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 cups romaine lettuce, chopped",
+      "1/2 cup croutons (look for vegan-friendly ones)",
+      "2 tablespoons tahini",
+      "1 tablespoon nutritional yeast",
+      "1 clove garlic, minced",
+      "1 lemon, juiced",
+      "2 tablespoons water",
+      "1/4 teaspoon Dijon mustard",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine chopped romaine lettuce and croutons.",
+      "In a separate bowl, whisk together tahini, nutritional yeast, minced garlic, lemon juice, water, Dijon mustard, salt, and pepper to make the Caesar dressing.",
+      "Drizzle the Caesar dressing over the salad and toss to coat the lettuce and croutons.",
+      "Serve your Quick and Easy Vegan Caesar Salad as a delightful and guilt-free meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein": 7,
+      "carbohydrates": 25,
+      "fiber": 5,
+      "sugars": 2,
+      "fat": 12
+    }
+  },
+  {
+    "id": 94,
+    "title": "Avocado Chickpea Lettuce Wraps",
+    "image": "https://images.eatthismuch.com/img/1496407_Magikarper_e1612c8c-a541-4851-9e51-a08a837ebd4d.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "1 (15 oz) can chickpeas, drained and rinsed",
+      "1 ripe avocado, diced",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup cherry tomatoes, diced",
+      "1/4 cup cucumber, diced",
+      "1/4 cup fresh cilantro, chopped",
+      "1 lime, juiced",
+      "Salt and pepper to taste",
+      "8 large lettuce leaves (e.g., Romaine or Butter lettuce)"
+    ],
+    "instructions": [
+      "In a large bowl, combine chickpeas, diced avocado, finely chopped red onion, diced cherry tomatoes, diced cucumber, and chopped fresh cilantro.",
+      "Drizzle the lime juice over the mixture and season with salt and pepper. Toss gently to combine all the ingredients.",
+      "Spoon the avocado chickpea mixture onto large lettuce leaves, creating wraps.",
+      "Serve your Avocado Chickpea Lettuce Wraps as a healthy and satisfying vegan meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 330,
+      "protein": 11,
+      "carbohydrates": 38,
+      "fiber": 15,
+      "sugars": 6,
+      "fat": 17
+    }
+  },
+  {
+    "id": 95,
+    "title": "Mediterranean Salad",
+    "image": "https://images.eatthismuch.com/img/906455_ldementhon_d80d8e4e-3b27-4108-b195-7760445b55c8.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 cups mixed greens (e.g., spinach, arugula, kale)",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cup cucumber, sliced",
+      "1/4 cup red onion, thinly sliced",
+      "1/4 cup Kalamata olives, pitted",
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon balsamic vinegar",
+      "1 teaspoon dried oregano",
+      "Salt and pepper to taste",
+      "Vegan feta cheese for garnish (optional)"
+    ],
+    "instructions": [
+      "In a large bowl, combine mixed greens, halved cherry tomatoes, sliced cucumber, thinly sliced red onion, and pitted Kalamata olives.",
+      "In a separate bowl, whisk together extra-virgin olive oil, balsamic vinegar, dried oregano, salt, and pepper to make the dressing.",
+      "Drizzle the dressing over the salad and toss to coat the ingredients evenly.",
+      "If desired, garnish your Mediterranean Salad with vegan feta cheese.",
+      "Serve the salad as a refreshing and nutritious vegan meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 4,
+      "carbohydrates": 13,
+      "fiber": 4,
+      "sugars": 5,
+      "fat": 21
+    }
+  },
+  {
+    "id": 96,
+    "title": "Salad with Ginger Sesame Miso Dressing",
+    "image": "https://images.eatthismuch.com/img/930955_gingersorrel_14c225cb-96c0-4a0e-8032-829346fc6e5f.jpg",
+    "servings": 2,
+    "category": "vegan weight loss",
+    "ingredients": [
+      "4 cups mixed salad greens",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cup cucumber, sliced",
+      "1/4 cup red bell pepper, sliced",
+      "1/4 cup carrots, julienned",
+      "1/4 cup edamame beans, shelled",
+      "1/4 cup almonds, sliced",
+      "1 tablespoon sesame seeds, toasted",
+      "2 tablespoons miso paste",
+      "1 tablespoon rice vinegar",
+      "1 tablespoon soy sauce (or tamari for gluten-free)",
+      "1 tablespoon maple syrup (or agave nectar)",
+      "1 teaspoon fresh ginger, grated",
+      "1 teaspoon sesame oil",
+      "1 clove garlic, minced",
+      "2 tablespoons water",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine mixed salad greens, halved cherry tomatoes, sliced cucumber, sliced red bell pepper, julienned carrots, shelled edamame beans, sliced almonds, and toasted sesame seeds.",
+      "In a separate bowl, whisk together miso paste, rice vinegar, soy sauce, maple syrup, grated fresh ginger, sesame oil, minced garlic, water, salt, and pepper to make the dressing.",
+      "Drizzle the dressing over the salad and toss to coat the ingredients evenly.",
+      "Serve your Salad with Ginger Sesame Miso Dressing as a delicious and nutritious vegan meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 12,
+      "carbohydrates": 27,
+      "fiber": 7,
+      "sugars": 9,
+      "fat": 23
+    }
+  },
+  {
+    "id": 97,
+    "title": "Pasta La Checca",
+    "image": "https://images.eatthismuch.com/img/45109_tabitharwheeler_4f1bbce5-66f8-412b-9302-625f360571f9.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "8 oz whole wheat pasta",
+      "1 cup cherry tomatoes, halved",
+      "1/4 cup fresh basil leaves, torn",
+      "2 cloves garlic, minced",
+      "2 tablespoons extra-virgin olive oil",
+      "1/2 teaspoon red pepper flakes (adjust to taste)",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for garnish (optional)"
+    ],
+    "instructions": [
+      "Cook the whole wheat pasta according to the package instructions until al dente. Drain and set aside.",
+      "In a large bowl, combine halved cherry tomatoes, torn fresh basil leaves, minced garlic, extra-virgin olive oil, red pepper flakes, salt, and pepper.",
+      "Add the cooked pasta to the bowl and toss to combine, ensuring the ingredients are well mixed.",
+      "If desired, garnish your Pasta La Checca with grated Parmesan cheese.",
+      "Serve the pasta as a delightful and light vegetarian meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 10,
+      "carbohydrates": 60,
+      "fiber": 10,
+      "sugars": 4,
+      "fat": 10
+    }
+  },
+  {
+    "id": 98,
+    "title": "Garlic Green Beans with Tofu",
+    "image": "https://images.eatthismuch.com/img/34875_erin_m_80f9d977-1813-4094-b223-9a2408152607.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "8 oz green beans, trimmed",
+      "8 oz extra-firm tofu, cubed",
+      "2 cloves garlic, minced",
+      "2 tablespoons low-sodium soy sauce (or tamari for gluten-free)",
+      "1 tablespoon sesame oil",
+      "1/2 tablespoon rice vinegar",
+      "1/2 tablespoon honey (or maple syrup for vegan)",
+      "1/2 teaspoon red pepper flakes (adjust to taste)",
+      "Salt and pepper to taste",
+      "2 tablespoons chopped fresh cilantro (optional, for garnish)"
+    ],
+    "instructions": [
+      "In a pot of boiling water, blanch the green beans for 2-3 minutes until they become bright green and slightly tender. Drain and set aside.",
+      "In a large skillet, heat sesame oil over medium-high heat. Add cubed tofu and cook until golden brown on all sides.",
+      "Add minced garlic and red pepper flakes to the skillet. Sauté for about 1 minute until fragrant.",
+      "In a small bowl, whisk together low-sodium soy sauce, rice vinegar, honey, salt, and pepper to make the sauce.",
+      "Pour the sauce over the tofu and garlic in the skillet. Add the blanched green beans and toss to coat everything in the sauce.",
+      "Cook for an additional 2-3 minutes until the sauce thickens slightly and coats the tofu and green beans evenly.",
+      "Garnish your Garlic Green Beans with Tofu with chopped fresh cilantro if desired.",
+      "Serve as a flavorful and nutritious vegetarian meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 18,
+      "carbohydrates": 18,
+      "fiber": 4,
+      "sugars": 8,
+      "fat": 18
+    }
+  },
+  {
+    "id": 99,
+    "title": "Chopped Salad",
+    "image": "https://images.eatthismuch.com/img/34102_tabitharwheeler_e2720b80-a3bd-406a-93a5-8d69417fad94.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "4 cups mixed salad greens (e.g., lettuce, spinach, arugula)",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cucumber, diced",
+      "1/2 red bell pepper, diced",
+      "1/4 red onion, finely chopped",
+      "1/4 cup Kalamata olives, pitted and sliced",
+      "1/4 cup crumbled feta cheese",
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste",
+      "Fresh basil leaves for garnish (optional)"
+    ],
+    "instructions": [
+      "In a large salad bowl, combine mixed salad greens, halved cherry tomatoes, diced cucumber, diced red bell pepper, finely chopped red onion, Kalamata olives, and crumbled feta cheese.",
+      "In a small bowl, whisk together extra-virgin olive oil and balsamic vinegar to make the dressing. Season with salt and pepper to taste.",
+      "Drizzle the dressing over the salad and toss to coat all the ingredients evenly.",
+      "If desired, garnish your Chopped Salad with fresh basil leaves for added flavor and presentation.",
+      "Serve your delicious and healthy Chopped Salad as a refreshing meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "carbohydrates": 18,
+      "fiber": 5,
+      "sugars": 8,
+      "fat": 24
+    }
+  },
+  {
+    "id": 100,
+    "title": "Broccoli Tofu Pitas",
+    "image": "https://images.eatthismuch.com/img/45315_SherleyMCL_4ff8e10c-3be2-41ce-9d16-209782c71305.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "8 oz extra-firm tofu, sliced into strips",
+      "2 cups broccoli florets",
+      "2 whole wheat pita breads",
+      "2 tablespoons olive oil",
+      "2 cloves garlic, minced",
+      "1 teaspoon ground cumin",
+      "1/2 teaspoon smoked paprika",
+      "Salt and pepper to taste",
+      "Tahini sauce for drizzling (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 400°F (200°C).",
+      "In a bowl, combine sliced tofu, minced garlic, ground cumin, smoked paprika, salt, and pepper. Toss to coat the tofu in the seasonings.",
+      "Spread the tofu strips on a baking sheet lined with parchment paper. Bake in the preheated oven for 20-25 minutes, flipping the tofu halfway through, until they are crispy and golden.",
+      "While the tofu is baking, steam the broccoli florets until they are tender-crisp, about 4-5 minutes.",
+      "Warm the whole wheat pita breads in the oven for a few minutes, or according to package instructions.",
+      "Assemble your Broccoli Tofu Pitas by placing the crispy tofu and steamed broccoli inside the pita breads.",
+      "If desired, drizzle with tahini sauce for extra flavor.",
+      "Serve your delicious and nutritious Broccoli Tofu Pitas as a satisfying vegetarian meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 16,
+      "carbohydrates": 30,
+      "fiber": 7,
+      "sugars": 2,
+      "fat": 20
+    }
+  },
+  {
+    "id": 101,
+    "title": "Vegan Chickpea Salad",
+    "image": "https://images.eatthismuch.com/img/254704_tabitharwheeler_4258c8ff-5f79-47e1-95e5-85e9aa45b88b.jpg",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "1 can (15 oz) chickpeas, drained and rinsed",
+      "1 cup cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup red bell pepper, diced",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup fresh parsley, chopped",
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon lemon juice",
+      "1 clove garlic, minced",
+      "Salt and pepper to taste",
+      "Cayenne pepper (optional, for heat)"
+    ],
+    "instructions": [
+      "In a large salad bowl, combine chickpeas, diced cucumber, halved cherry tomatoes, diced red bell pepper, finely chopped red onion, and fresh parsley.",
+      "In a small bowl, whisk together extra-virgin olive oil, lemon juice, minced garlic, salt, and pepper. Add cayenne pepper if you desire some heat.",
+      "Drizzle the dressing over the salad and toss to coat all the ingredients evenly.",
+      "Serve your refreshing Vegan Chickpea Salad as a light and nutritious meal!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 9,
+      "carbohydrates": 33,
+      "fiber": 9,
+      "sugars": 8,
+      "fat": 16
+    }
+  },
+  {
+    "id": 102,
+    "title": "Lemon Steamed Broccoli",
+    "image": "https://images.eatthismuch.com/img/906390_Shamarie84_4c16c795-97ac-4fcb-9d12-a99c8a60a297.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 cups broccoli florets",
+      "1 lemon, thinly sliced",
+      "2 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "Salt and pepper to taste",
+      "Red pepper flakes (optional, for heat)"
+    ],
+    "instructions": [
+      "Place a steamer basket in a pot filled with 1 inch of water. Add the broccoli florets and lemon slices to the steamer basket.",
+      "Cover the pot and steam the broccoli over medium-high heat for 5-7 minutes, or until it becomes tender but still crisp.",
+      "While the broccoli is steaming, heat olive oil in a small pan over medium heat. Add minced garlic and sauté for about 1-2 minutes until fragrant.",
+      "Drizzle the garlic-infused olive oil over the steamed broccoli and lemon slices. Season with salt, pepper, and red pepper flakes if you desire some heat.",
+      "Serve your healthy and zesty Lemon Steamed Broccoli as a flavorful side dish!",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 3,
+      "carbohydrates": 9,
+      "fiber": 3,
+      "sugars": 2,
+      "fat": 9
+    }
+  },
+  {
+    "id": 103,
+    "title": "Avocado Quesadillas",
+    "image": "https://images.eatthismuch.com/img/340660_erin_m_67df9380-eb27-4beb-ab81-58961a135f20.png",
+    "servings": 2,
+    "category": "vegetarian weight loss",
+    "ingredients": [
+      "2 whole wheat tortillas",
+      "1 ripe avocado, sliced",
+      "1/2 cup shredded cheddar cheese",
+      "1/4 cup red onion, thinly sliced",
+      "1/4 cup bell pepper, diced (any color)",
+      "1/4 cup fresh cilantro, chopped",
+      "1/2 teaspoon cumin powder",
+      "Salt and pepper to taste",
+      "Cooking spray or oil for frying"
+    ],
+    "instructions": [
+      "Place one tortilla on a clean surface. Layer one-half of the avocado slices on one side of the tortilla.",
+      "Sprinkle half of the shredded cheddar cheese over the avocado slices.",
+      "Add half of the thinly sliced red onion, diced bell pepper, and chopped cilantro.",
+      "Sprinkle with cumin powder, salt, and pepper.",
+      "Fold the other half of the tortilla over the toppings, creating a half-moon shape.",
+      "Repeat the process with the second tortilla and the remaining ingredients.",
+      "Heat a non-stick skillet over medium heat and lightly grease it with cooking spray or oil.",
+      "Place one quesadilla in the skillet and cook until it's golden brown and the cheese melts, about 2-3 minutes per side.",
+      "Repeat with the second quesadilla.",
+      "Slice the quesadillas into wedges and serve them hot.",
+      "Enjoy your delicious Avocado Quesadillas!"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 11,
+      "carbohydrates": 38,
+      "fiber": 9,
+      "sugars": 4,
+      "fat": 22
+    }
   }
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 
