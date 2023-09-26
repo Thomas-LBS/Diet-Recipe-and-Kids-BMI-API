@@ -3477,7 +3477,742 @@
       "sugars": 4,
       "fat": 22
     }
+  },
+  {
+    "id": 104,
+    "title": "Avocado Egg Bake",
+    "image": "https://images.eatthismuch.com/img/270860_mensuramjr_cd47fe9f-edb6-42cd-bcb0-766f8eaa3914.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 ripe avocados",
+      "4 large eggs",
+      "Salt and pepper to taste",
+      "Fresh herbs for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 425°F (220°C).",
+      "Cut the avocados in half and remove the pits.",
+      "Scoop out a little extra flesh from each avocado half to create a larger cavity for the egg.",
+      "Place the avocado halves in a baking dish to keep them stable.",
+      "Crack an egg into each avocado half. Season with salt and pepper.",
+      "Bake in the preheated oven for 12-15 minutes or until the egg whites are set and the yolks are still slightly runny.",
+      "Garnish with fresh herbs if desired and serve your Avocado Egg Bake hot.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 345,
+      "protein": 12,
+      "carbohydrates": 13,
+      "fiber": 10,
+      "sugars": 1,
+      "fat": 28
+    }
+  },
+  {
+    "id": 105,
+    "title": "Cinnamon Banana Mug Cake",
+    "image": "https://images.eatthismuch.com/img/906429_Shamarie84_f7e9c76e-2e16-4dbb-9fac-0714e83128ab.png",
+    "servings": 1,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "1 ripe banana, mashed",
+      "1 large egg",
+      "2 tablespoons almond flour",
+      "1/2 teaspoon ground cinnamon",
+      "1/4 teaspoon baking powder",
+      "A pinch of salt",
+      "1/2 teaspoon vanilla extract (optional)",
+      "Honey or maple syrup for drizzling (optional)"
+    ],
+    "instructions": [
+      "In a microwave-safe mug, mash the ripe banana with a fork.",
+      "Add the egg, almond flour, ground cinnamon, baking powder, salt, and vanilla extract (if using) to the mug. Mix until well combined.",
+      "Microwave the mug on high for 2-3 minutes or until the cake has risen and set in the center.",
+      "Let the mug cake cool for a minute, then drizzle with honey or maple syrup if desired.",
+      "Enjoy your Cinnamon Banana Mug Cake as a paleo-friendly dessert!"
+    ],
+    "nutrition": {
+      "calories": 287,
+      "protein": 9,
+      "carbohydrates": 39,
+      "fiber": 5,
+      "sugars": 18,
+      "fat": 11
+    }
+  },
+  {
+    "id": 106,
+    "title": "Pumpkin Pie Spiced Waffles",
+    "image": "https://images.eatthismuch.com/img/346832_LMoffitt1_ef547098-2080-4707-92c3-2d6aa8f762b3.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "1 cup almond flour",
+      "2 tablespoons coconut flour",
+      "1/2 teaspoon baking powder",
+      "1/2 teaspoon pumpkin pie spice",
+      "1/4 teaspoon cinnamon",
+      "A pinch of salt",
+      "2 large eggs",
+      "1/2 cup canned pumpkin puree",
+      "1/4 cup almond milk (or any milk of your choice)",
+      "2 tablespoons maple syrup",
+      "1 teaspoon vanilla extract",
+      "Coconut oil or ghee for greasing the waffle iron"
+    ],
+    "instructions": [
+      "Preheat your waffle iron according to the manufacturer's instructions.",
+      "In a mixing bowl, whisk together almond flour, coconut flour, baking powder, pumpkin pie spice, cinnamon, and a pinch of salt.",
+      "In another bowl, whisk the eggs, then add the canned pumpkin puree, almond milk, maple syrup, and vanilla extract. Mix until well combined.",
+      "Pour the wet ingredients into the dry ingredients and stir until a smooth batter forms.",
+      "Grease the waffle iron with coconut oil or ghee to prevent sticking.",
+      "Pour the batter onto the preheated waffle iron and cook according to your waffle iron's instructions until golden brown and crisp.",
+      "Serve your Pumpkin Pie Spiced Waffles hot and enjoy your paleo weight gain meal!"
+    ],
+    "nutrition": {
+      "calories": 403,
+      "protein": 14,
+      "carbohydrates": 23,
+      "fiber": 7,
+      "sugars": 11,
+      "fat": 32
+    }
+  },
+  {
+    "id": 107,
+    "title": "Cinnamon Apple Bites",
+    "image": "https://images.eatthismuch.com/img/39304_elm333_4adab0ef-312f-4bde-9c00-da7b2599c253.jpg",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 apples, cored and sliced into rounds",
+      "1 tablespoon coconut oil, melted",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1/4 teaspoon vanilla extract",
+      "A pinch of salt",
+      "Optional: 1 tablespoon honey or maple syrup for drizzling"
+    ],
+    "instructions": [
+      "Preheat your oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+      "In a bowl, combine melted coconut oil, ground cinnamon, ground nutmeg, vanilla extract, and a pinch of salt. Mix well to make the cinnamon spice mixture.",
+      "Dip each apple slice into the cinnamon spice mixture, ensuring it's coated evenly. Place the coated apple slices on the prepared baking sheet.",
+      "Bake in the preheated oven for about 15-20 minutes or until the apple slices are tender and slightly caramelized.",
+      "If desired, drizzle with honey or maple syrup before serving.",
+      "Serve your Cinnamon Apple Bites hot or at room temperature and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 166,
+      "protein": 1,
+      "carbohydrates": 25,
+      "fiber": 5,
+      "sugars": 19,
+      "fat": 8
+    }
+  },
+  {
+    "id": 108,
+    "title": "Eggs Baked in Avocado with Bacon",
+    "image": "https://images.eatthismuch.com/img/322257_Dannyboyni_650c4aa9-7138-40dd-bf48-78aef54c9d96.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 avocados, halved and pitted",
+      "4 large eggs",
+      "2 slices of bacon, cooked and crumbled",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped (for garnish)"
+    ],
+    "instructions": [
+      "Preheat your oven to 375°F (190°C).",
+      "Using a spoon, scoop out a small amount of flesh from each avocado half to create a larger cavity for the eggs.",
+      "Place the avocado halves on a baking sheet or in a baking dish, ensuring they are stable and won't tip over.",
+      "Crack one egg into each avocado half. Sprinkle with salt and pepper to taste.",
+      "Bake in the preheated oven for about 15-20 minutes or until the egg whites are set but the yolks are still slightly runny, or to your desired level of doneness.",
+      "Remove from the oven and sprinkle with crumbled bacon and chopped fresh parsley.",
+      "Serve your Eggs Baked in Avocado with Bacon hot and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 375,
+      "protein": 14,
+      "carbohydrates": 12,
+      "fiber": 9,
+      "sugars": 1,
+      "fat": 31
+    }
+  },
+  {
+    "id": 109,
+    "title": "Pomegranate Blueberry and Spinach Smoothie",
+    "image": "https://images.eatthismuch.com/img/905553_elm333_8fea6ef3-7ea0-4d87-b3dd-8e1dd4a7059f.jpg",
+    "servings": 1,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "1 cup fresh spinach leaves",
+      "1/2 cup blueberries (fresh or frozen)",
+      "1/2 cup pomegranate seeds",
+      "1/2 banana",
+      "1/2 cup unsweetened almond milk",
+      "1 tablespoon honey (optional, for sweetness)",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "Place fresh spinach leaves, blueberries, pomegranate seeds, banana, and unsweetened almond milk in a blender.",
+      "If desired, add honey for sweetness.",
+      "If you prefer a thicker consistency, you can add ice cubes.",
+      "Blend all ingredients until smooth and creamy.",
+      "Pour the smoothie into a glass and enjoy your Pomegranate Blueberry and Spinach Smoothie!"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 3,
+      "carbohydrates": 48,
+      "fiber": 9,
+      "sugars": 33,
+      "fat": 3
+    }
+  },
+  {
+    "id": 110,
+    "title": "Scrambled Eggs with Chorizo",
+    "image": "https://images.eatthismuch.com/img/906523_Shamarie84_a6b1092f-06a9-4818-a910-8053ccad27de.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "4 large eggs",
+      "1/2 cup chorizo sausage, cooked and crumbled",
+      "1/4 cup diced onions",
+      "1/4 cup diced bell peppers",
+      "1/4 cup diced tomatoes",
+      "1 tablespoon olive oil",
+      "Salt and pepper to taste",
+      "Chopped fresh cilantro for garnish (optional)"
+    ],
+    "instructions": [
+      "In a bowl, whisk the eggs until well beaten. Season with salt and pepper.",
+      "Heat olive oil in a skillet over medium heat.",
+      "Add diced onions and bell peppers to the skillet. Sauté until they become translucent.",
+      "Add diced tomatoes and cooked chorizo to the skillet. Cook for an additional 2-3 minutes.",
+      "Pour the beaten eggs into the skillet with the other ingredients.",
+      "Stir continuously until the eggs are cooked to your desired level of doneness.",
+      "Serve your Scrambled Eggs with Chorizo hot, garnished with chopped fresh cilantro if desired.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 18,
+      "carbohydrates": 4,
+      "fiber": 1,
+      "sugars": 2,
+      "fat": 25
+    }
+  },
+  {
+    "id": 111,
+    "title": "Strawberry Spinach Smoothie",
+    "image": "https://images.eatthismuch.com/img/967032_elm333_56865480-a894-46fa-918d-ade5529daa89.jpg",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 cups fresh spinach leaves",
+      "1 1/2 cups frozen strawberries",
+      "1 ripe banana",
+      "1 cup unsweetened almond milk",
+      "1 tablespoon honey (optional, for sweetness)",
+      "Ice cubes (optional)"
+    ],
+    "instructions": [
+      "Place fresh spinach leaves in a blender.",
+      "Add frozen strawberries, ripe banana, and unsweetened almond milk to the blender.",
+      "If desired, add honey for sweetness.",
+      "Blend all ingredients until smooth and creamy.",
+      "If you prefer a thicker consistency, you can add ice cubes and blend again.",
+      "Pour the smoothie into glasses and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 170,
+      "protein": 3,
+      "carbohydrates": 41,
+      "fiber": 7,
+      "sugars": 26,
+      "fat": 2
+    }
+  },
+  {
+    "id": 112,
+    "title": "Egg and Greens Skillet",
+    "image": "https://images.eatthismuch.com/img/383732_jjax42_44036a68-2783-44c4-92d9-9d173a3d4d5b.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "4 large eggs",
+      "2 cups fresh spinach leaves",
+      "1 cup cherry tomatoes, halved",
+      "1/2 red onion, thinly sliced",
+      "2 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "Salt and pepper to taste",
+      "Fresh basil leaves for garnish (optional)"
+    ],
+    "instructions": [
+      "Heat olive oil in a large skillet over medium heat.",
+      "Add minced garlic and thinly sliced red onion to the skillet. Sauté until the onion becomes translucent.",
+      "Add cherry tomatoes and fresh spinach leaves to the skillet. Sauté until the spinach wilts and the tomatoes soften.",
+      "Create four wells in the vegetable mixture and crack one egg into each well.",
+      "Cover the skillet and cook for about 5-6 minutes or until the egg whites are set but the yolks are still slightly runny.",
+      "Season with salt and pepper to taste.",
+      "Garnish with fresh basil leaves if desired.",
+      "Serve your Egg and Greens Skillet hot and enjoy!"
+    ],
+    "nutrition": {
+      "calories": 270,
+      "protein": 14,
+      "carbohydrates": 12,
+      "fiber": 3,
+      "sugars": 4,
+      "fat": 20
+    }
+  },
+  {
+    "id": 113,
+    "title": "Paleo Avocado Tuna Salad",
+    "image": "https://images.eatthismuch.com/img/940735_tabitharwheeler_8cf6c61a-a8ca-4315-910f-739cd4626fe9.jpg",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "1 can (5 oz) tuna in olive oil, drained",
+      "1 ripe avocado, diced",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup celery, finely chopped",
+      "1/4 cup cucumber, diced",
+      "1 tablespoon fresh cilantro, chopped",
+      "1 tablespoon fresh lime juice",
+      "Salt and pepper to taste",
+      "Lettuce leaves or greens for serving"
+    ],
+    "instructions": [
+      "In a bowl, combine the drained tuna, diced avocado, finely chopped red onion, celery, cucumber, and chopped cilantro.",
+      "Drizzle fresh lime juice over the mixture and gently toss to combine.",
+      "Season the salad with salt and pepper to taste.",
+      "Serve the Paleo Avocado Tuna Salad on lettuce leaves or a bed of greens.",
+      "Enjoy your fresh and flavorful tuna salad!"
+    ],
+    "nutrition": {
+      "calories": 330,
+      "protein": 17,
+      "carbohydrates": 12,
+      "fiber": 7,
+      "sugars": 2,
+      "fat": 25
+    }
+  },
+  {
+    "id": 114,
+    "title": "Spinach Avocado Soup",
+    "image": "https://images.eatthismuch.com/img/1473710_bcross205_97ee90a0-14d0-4e54-98a5-6a1509ec26df.jpg",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 cups fresh spinach leaves",
+      "1 ripe avocado, peeled and pitted",
+      "1/4 cup fresh cilantro leaves",
+      "1/4 cup chopped cucumber",
+      "1/4 cup chopped red onion",
+      "1 clove garlic, minced",
+      "Juice of 1 lime",
+      "1 cup cold water",
+      "Salt and pepper to taste",
+      "Optional toppings: sliced avocado, chopped cilantro, and lime wedges"
+    ],
+    "instructions": [
+      "In a blender, combine the fresh spinach leaves, ripe avocado, cilantro leaves, chopped cucumber, chopped red onion, minced garlic, and lime juice.",
+      "Add 1 cup of cold water to the blender.",
+      "Blend all the ingredients until smooth and creamy. If needed, you can add more water to achieve your desired consistency.",
+      "Season the soup with salt and pepper to taste and blend briefly to combine.",
+      "Chill the Spinach Avocado Soup in the refrigerator for about 30 minutes before serving.",
+      "Serve the soup in bowls, and you can garnish with sliced avocado, chopped cilantro, and lime wedges if desired.",
+      "Enjoy your refreshing Spinach Avocado Soup!"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 4,
+      "carbohydrates": 14,
+      "fiber": 7,
+      "sugars": 2,
+      "fat": 18
+    }
+  },
+  {
+    "id": 115,
+    "title": "Arugula Salad with Grapefruit Dressing",
+    "image": "https://images.eatthismuch.com/img/34758_simmyras_42aaf1e5-8c22-45d8-b61c-89e54125e006.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "4 cups arugula leaves",
+      "1 grapefruit, segmented",
+      "1/4 cup red onion, thinly sliced",
+      "1/4 cup walnut halves, toasted",
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon fresh grapefruit juice",
+      "1 teaspoon honey (optional, omit for strict paleo)",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large salad bowl, combine the arugula leaves, grapefruit segments, thinly sliced red onion, and toasted walnut halves.",
+      "In a separate small bowl, whisk together the extra-virgin olive oil, fresh grapefruit juice, honey (if using), and season with salt and pepper to taste.",
+      "Drizzle the grapefruit dressing over the salad and toss gently to coat the ingredients evenly.",
+      "Serve your Arugula Salad with Grapefruit Dressing immediately.",
+      "Enjoy your refreshing and tangy paleo salad!"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 4,
+      "carbohydrates": 19,
+      "fiber": 4,
+      "sugars": 10,
+      "fat": 23
+    }
+  },
+  {
+    "id": 117,
+    "title": "Lemon Avocado Salad",
+    "image": "https://images.eatthismuch.com/img/3281795_tabitharwheeler_c6160500-b122-4432-bd65-3884b9128427.jpg",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 avocados, diced",
+      "1 cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/4 cup red onion, finely chopped",
+      "2 tablespoons fresh parsley, chopped",
+      "2 tablespoons extra-virgin olive oil",
+      "Juice of 1 lemon",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large mixing bowl, combine the diced avocados, diced cucumber, halved cherry tomatoes, finely chopped red onion, and chopped fresh parsley.",
+      "In a small bowl, whisk together the extra-virgin olive oil, lemon juice, salt, and pepper to make the dressing.",
+      "Drizzle the dressing over the salad ingredients and gently toss to combine, ensuring everything is coated in the dressing.",
+      "Serve your Lemon Avocado Salad immediately as a refreshing paleo dish.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 5,
+      "carbohydrates": 21,
+      "fiber": 10,
+      "sugars": 4,
+      "fat": 27
+    }
+  },
+  {
+    "id": 118,
+    "title": "Cool Summer Cucumber, Chicken, and Tomato Toss",
+    "image": "https://images.eatthismuch.com/img/346100_gracegza_fcdd16f4-09cb-4c7e-b502-c5af4c45daf0.png",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/4 cup red onion, finely chopped",
+      "2 tablespoons fresh parsley, chopped",
+      "2 tablespoons extra-virgin olive oil",
+      "Juice of 1 lemon",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Grill or pan-sear the boneless, skinless chicken breasts until fully cooked, about 6-7 minutes per side, or until the internal temperature reaches 165°F (74°C). Slice the cooked chicken into thin strips.",
+      "In a large mixing bowl, combine the diced cucumber, halved cherry tomatoes, finely chopped red onion, and chopped fresh parsley.",
+      "Add the sliced grilled chicken to the bowl.",
+      "In a small bowl, whisk together the extra-virgin olive oil, lemon juice, salt, and pepper to make the dressing.",
+      "Drizzle the dressing over the salad ingredients and gently toss to combine, ensuring everything is coated in the dressing.",
+      "Serve your Cool Summer Cucumber, Chicken, and Tomato Toss immediately as a refreshing paleo dish.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 30,
+      "carbohydrates": 9,
+      "fiber": 2,
+      "sugars": 4,
+      "fat": 19
+    }
+  },
+  {
+    "id": 119,
+    "title": "Lemon Balsamic Tilapia",
+    "image": "https://images.eatthismuch.com/img/925717_TimBasham_14f2fa8a-e0ab-4109-9cd3-4662c966fb0d.jpg",
+    "servings": 2,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 tilapia fillets",
+      "2 tablespoons olive oil",
+      "Zest and juice of 1 lemon",
+      "2 cloves garlic, minced",
+      "2 tablespoons balsamic vinegar",
+      "1 teaspoon fresh thyme leaves (or 1/2 teaspoon dried thyme)",
+      "Salt and pepper to taste",
+      "Fresh parsley for garnish (optional)"
+    ],
+    "instructions": [
+      "In a bowl, combine the olive oil, lemon zest, lemon juice, minced garlic, balsamic vinegar, fresh thyme leaves, salt, and pepper. Mix well to create the marinade.",
+      "Place the tilapia fillets in a shallow dish and pour the marinade over them. Make sure the fillets are evenly coated. Let them marinate for about 15-20 minutes.",
+      "Preheat your grill or grill pan to medium-high heat. Make sure to oil the grates to prevent sticking.",
+      "Remove the tilapia fillets from the marinade and shake off any excess. Discard the marinade.",
+      "Grill the tilapia fillets for about 3-4 minutes per side or until they are cooked through and flake easily with a fork.",
+      "Garnish with fresh parsley if desired.",
+      "Serve your Lemon Balsamic Tilapia hot as a flavorful and healthy paleo dish.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 36,
+      "carbohydrates": 4,
+      "fiber": 0,
+      "sugars": 1,
+      "fat": 16
+    }
+  },
+  {
+    "id": 120,
+    "title": "Salt and Pepper Chicken Wings",
+    "image": "https://images.eatthismuch.com/img/1476857_Raymond%20Santos_0dac3c0b-b20b-4155-9d98-36bdae852e0d.jpg",
+    "servings": 4,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "2 lbs chicken wings, tips removed",
+      "2 tablespoons coconut oil",
+      "2 teaspoons sea salt",
+      "2 teaspoons black pepper",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1/2 teaspoon paprika",
+      "1/2 teaspoon cayenne pepper (adjust to taste)",
+      "Fresh cilantro leaves for garnish (optional)",
+      "Lime wedges for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 425°F (220°C) and line a baking sheet with parchment paper.",
+      "In a large mixing bowl, combine the chicken wings, coconut oil, sea salt, black pepper, garlic powder, onion powder, paprika, and cayenne pepper. Toss until the wings are evenly coated with the seasoning mixture.",
+      "Arrange the seasoned chicken wings in a single layer on the prepared baking sheet.",
+      "Bake in the preheated oven for 35-40 minutes or until the wings are cooked through and crispy, flipping them halfway through cooking.",
+      "Remove from the oven and let them cool slightly.",
+      "Garnish with fresh cilantro leaves and serve with lime wedges if desired.",
+      "Enjoy your flavorful Salt and Pepper Chicken Wings as a paleo-friendly appetizer or main dish!"
+    ],
+    "nutrition": {
+      "calories": 330,
+      "protein": 24,
+      "carbohydrates": 2,
+      "fiber": 0,
+      "sugars": 0,
+      "fat": 25
+    }
+  },
+  {
+    "id": 121,
+    "title": "Lemon Pepper Baked Tilapia",
+    "image": "https://images.eatthismuch.com/img/412969_Finxy_1be40933-51ef-46a2-b400-60a15fea6ff2.png",
+    "servings": 4,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "4 tilapia fillets",
+      "2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "1 teaspoon lemon pepper seasoning",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon paprika",
+      "1/2 teaspoon dried thyme",
+      "Salt and black pepper to taste",
+      "Fresh parsley for garnish (optional)",
+      "Lemon slices for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+      "In a small bowl, whisk together olive oil, lemon juice, lemon pepper seasoning, garlic powder, paprika, dried thyme, salt, and black pepper.",
+      "Place the tilapia fillets on the prepared baking sheet.",
+      "Brush the tilapia fillets with the lemon and spice mixture, ensuring they are evenly coated.",
+      "Bake in the preheated oven for 15-20 minutes or until the tilapia is cooked through and flakes easily with a fork.",
+      "Garnish with fresh parsley and lemon slices if desired.",
+      "Serve your delicious Lemon Pepper Baked Tilapia as a paleo-friendly main dish.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 23,
+      "carbohydrates": 2,
+      "fiber": 0,
+      "sugars": 0,
+      "fat": 9
+    }
+  },
+  {
+    "id": 122,
+    "title": "Bacon-Wrapped Trout with Rosemary",
+    "image": "https://images.eatthismuch.com/img/45196_erin_m_c9fa62ea-8651-4397-acb5-7c709aa2b50e.png",
+    "servings": 4,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "4 whole trout, gutted and cleaned",
+      "8 slices of bacon",
+      "4 sprigs of fresh rosemary",
+      "2 tablespoons olive oil",
+      "Salt and black pepper to taste",
+      "Lemon wedges for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 400°F (200°C) and line a baking sheet with foil.",
+      "Season the inside and outside of each trout with salt and black pepper.",
+      "Stuff each trout with a sprig of fresh rosemary.",
+      "Wrap each trout with 2 slices of bacon, ensuring it's securely wrapped around the fish.",
+      "Place the bacon-wrapped trout on the prepared baking sheet.",
+      "Drizzle olive oil over the trout for added flavor.",
+      "Bake in the preheated oven for 15-20 minutes or until the bacon is crispy, and the trout is cooked through.",
+      "Garnish with lemon wedges if desired.",
+      "Serve your delicious Bacon-Wrapped Trout with Rosemary as a paleo-friendly main dish.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugars": 0,
+      "fat": 25
+    }
+  },
+  {
+    "id": 123,
+    "title": "Rosemary-Crusted Lamb Chops",
+    "image": "https://images.eatthismuch.com/img/57060_tabitharwheeler_69ac25cc-dae0-4192-a267-e7d0b4d6df83.jpg",
+    "servings": 4,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "8 lamb chops",
+      "2 tablespoons fresh rosemary, minced",
+      "3 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "Salt and black pepper to taste",
+      "Lemon wedges for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your grill to high heat.",
+      "In a small bowl, combine minced rosemary, minced garlic, olive oil, salt, and black pepper to make the marinade.",
+      "Rub the marinade all over the lamb chops, ensuring they are evenly coated.",
+      "Place the lamb chops on the hot grill and cook for 3-4 minutes per side for medium-rare, or adjust the cooking time to your desired level of doneness.",
+      "Remove the lamb chops from the grill and let them rest for a few minutes.",
+      "Garnish with lemon wedges if desired.",
+      "Serve your succulent Rosemary-Crusted Lamb Chops as a delicious paleo main dish.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 32,
+      "carbohydrates": 0,
+      "fiber": 0,
+      "sugars": 0,
+      "fat": 30
+    }
+  },
+  {
+    "id": 124,
+    "title": "One-Pan Roasted Chicken and Veggies",
+    "image": "https://images.eatthismuch.com/img/369138_JahLove7124_eb3f7954-a846-49d6-8615-05fcffa3b2cd.png",
+    "servings": 4,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "4 bone-in, skin-on chicken thighs",
+      "2 cups baby potatoes, halved",
+      "2 cups carrots, sliced",
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "1 red onion, thinly sliced",
+      "3 cloves garlic, minced",
+      "2 tablespoons fresh rosemary, chopped",
+      "2 tablespoons fresh thyme, chopped",
+      "3 tablespoons olive oil",
+      "Salt and black pepper to taste",
+      "Lemon wedges for garnish (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 425°F (220°C).",
+      "In a large bowl, combine halved baby potatoes, sliced carrots, red bell pepper slices, yellow bell pepper slices, thinly sliced red onion, minced garlic, chopped rosemary, chopped thyme, and olive oil. Season with salt and black pepper. Toss to coat the vegetables in the oil and seasonings.",
+      "Place the chicken thighs on a baking sheet or ovenproof skillet, skin side up. Arrange the seasoned vegetables around the chicken.",
+      "Roast in the preheated oven for about 35-40 minutes or until the chicken is cooked through, and the vegetables are tender and slightly caramelized.",
+      "Remove from the oven and let it rest for a few minutes.",
+      "Garnish with lemon wedges if desired.",
+      "Serve your delicious One-Pan Roasted Chicken and Veggies as a satisfying paleo meal.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 30,
+      "carbohydrates": 30,
+      "fiber": 6,
+      "sugars": 6,
+      "fat": 18
+    }
+  },
+  {
+    "id": 125,
+    "title": "Sautéed Spinach with Pine Nuts",
+    "image": "https://images.eatthismuch.com/img/3268357_tabitharwheeler_1f0c4fb5-8e62-463d-8b41-326c8fcf6006.jpg",
+    "servings": 4,
+    "category": "paleo weight gain",
+    "ingredients": [
+      "12 cups fresh spinach leaves",
+      "1/4 cup pine nuts",
+      "2 tablespoons olive oil",
+      "2 cloves garlic, minced",
+      "1 lemon, zested and juiced",
+      "Salt and black pepper to taste",
+      "Red pepper flakes for optional heat"
+    ],
+    "instructions": [
+      "Heat a large skillet over medium-high heat and add the pine nuts. Toast them for about 2-3 minutes, stirring frequently, until they become golden brown. Remove the pine nuts from the skillet and set them aside.",
+      "In the same skillet, add olive oil and minced garlic. Sauté for about 30 seconds to 1 minute until the garlic becomes fragrant but not browned.",
+      "Add the fresh spinach leaves to the skillet and toss to combine with the garlic and olive oil. Sauté for about 3-4 minutes until the spinach wilts and becomes tender.",
+      "Drizzle the lemon juice and zest over the sautéed spinach. Season with salt and black pepper. Add red pepper flakes if you like some heat. Toss everything together for another 1-2 minutes.",
+      "Transfer the sautéed spinach to a serving dish and sprinkle the toasted pine nuts on top.",
+      "Serve your Sautéed Spinach with Pine Nuts as a flavorful paleo side dish or enjoy it as a light and nutritious snack.",
+      "Enjoy!"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "carbohydrates": 4,
+      "fiber": 2,
+      "sugars": 1,
+      "fat": 10
+    }
   }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 
   
